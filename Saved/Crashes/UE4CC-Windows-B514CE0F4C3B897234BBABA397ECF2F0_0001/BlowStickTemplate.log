@@ -1,0 +1,1434 @@
+﻿Log file open, 09/11/18 10:16:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BlowStickTemplate
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184298
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SocketClient
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.107s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: Radeon RX Vega
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.11-08.16.45:083][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.11-08.16.45:083][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.11-08.16.45:097][  0]LogHAL: Display: Platform has ~ 16 GB [17113829376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.11-08.16.45:097][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.11-08.16.45:097][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.11-08.16.45:097][  0]LogInit: Computer: ZORANRAJCIC
+[2018.09.11-08.16.45:097][  0]LogInit: User: Zoran
+[2018.09.11-08.16.45:097][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.11-08.16.45:097][  0]LogInit: High frequency timer resolution =3.117778 MHz
+[2018.09.11-08.16.45:098][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.11-08.16.45:098][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.11-08.16.45:098][  0]LogMemory: Process Physical Memory: 99.48 MB used, 99.48 MB peak
+[2018.09.11-08.16.45:098][  0]LogMemory: Process Virtual Memory: 90.21 MB used, 90.21 MB peak
+[2018.09.11-08.16.45:098][  0]LogMemory: Physical Memory: 4623.54 MB used,  11697.48 MB free, 16321.02 MB total
+[2018.09.11-08.16.45:098][  0]LogMemory: Virtual Memory: 4626.49 MB used,  11697.48 MB free, 134217728.00 MB total
+[2018.09.11-08.16.45:113][  0]LogInit: Using OS detected language (en-US).
+[2018.09.11-08.16.45:113][  0]LogInit: Using OS detected locale (sr-Latn-RS).
+[2018.09.11-08.16.45:114][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.11-08.16.45:521][  0]LogStreaming: Display: Took  0.408s to InitEngineTextLocalization.
+[2018.09.11-08.16.45:521][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.11-08.16.45:551][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.11-08.16.45:551][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.11-08.16.45:732][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.11-08.16.45:732][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.11-08.16.45:760][  0]LogD3D11RHI:    0. 'Radeon RX Vega' (Feature Level 11_0)
+[2018.09.11-08.16.45:760][  0]LogD3D11RHI:       8121/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.09.11-08.16.45:762][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.11-08.16.45:762][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.11-08.16.45:762][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.11-08.16.45:766][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.11-08.16.45:766][  0]LogD3D11RHI:     GPU DeviceId: 0x687f (for the marketing name, search the web for "GPU Device Id")
+[2018.09.11-08.16.45:766][  0]LogWindows: EnumDisplayDevices:
+[2018.09.11-08.16.45:766][  0]LogWindows:    0. 'Radeon RX Vega' (P:1 D:1)
+[2018.09.11-08.16.45:766][  0]LogWindows:    1. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:767][  0]LogWindows:    2. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:767][  0]LogWindows:    3. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:767][  0]LogWindows:    4. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:767][  0]LogWindows:    5. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:768][  0]LogWindows:    6. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:768][  0]LogWindows:    7. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:768][  0]LogWindows:    8. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:768][  0]LogWindows:    9. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:769][  0]LogWindows:    10. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:769][  0]LogWindows:    11. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:769][  0]LogWindows:    12. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:769][  0]LogWindows:    13. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:770][  0]LogWindows:    14. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:770][  0]LogWindows:    15. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.11-08.16.45:770][  0]LogWindows: DebugString: FoundDriverCount:16 
+[2018.09.11-08.16.45:770][  0]LogD3D11RHI:     Adapter Name: Radeon RX Vega
+[2018.09.11-08.16.45:770][  0]LogD3D11RHI:   Driver Version: Adrenalin 17.12.2 (internal:23.20.15007.1005, unified:23.20.15007.1005)
+[2018.09.11-08.16.45:770][  0]LogD3D11RHI:      Driver Date: 12-17-2017
+[2018.09.11-08.16.45:770][  0]LogRHI: Texture pool is 5684 MB (70% of 8121 MB)
+[2018.09.11-08.16.45:831][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.11-08.16.45:843][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.09.11-08.16.45:845][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Intermediate/Shaders/WorkingDirectory/6384/).
+[2018.09.11-08.16.45:845][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Zoran/AppData/Local/Temp/UnrealShaderWorkingDir/285C49B846859408FC9407A51B679F29/'.
+[2018.09.11-08.16.46:084][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.11-08.16.46:098][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.11-08.16.46:113][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.11-08.16.46:127][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.11-08.16.46:141][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.11-08.16.46:163][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.11-08.16.46:177][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.11-08.16.46:191][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.11-08.16.46:198][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-08.16.46:280][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.11-08.16.46:340][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.11-08.16.46:340][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.11-08.16.46:364][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.11-08.16.46:364][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.11-08.16.46:377][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.11-08.16.46:389][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.11-08.16.46:401][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.11-08.16.46:415][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.11-08.16.46:424][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.11-08.16.46:424][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.11-08.16.46:477][  0]LogXGEController: Cleaning working directory: C:/Users/Zoran/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.11-08.16.46:477][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.11-08.16.46:477][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.11-08.16.46:478][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.11-08.16.47:202][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.11-08.16.47:254][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Zoran/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.11-08.16.47:254][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Zoran/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.11-08.16.47:254][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.11-08.16.47:254][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.11-08.16.47:254][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.11-08.16.47:254][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.11-08.16.47:267][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.11-08.16.47:280][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Zoran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.11-08.16.47:280][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.11-08.16.47:280][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.11-08.16.47:299][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.11-08.16.47:300][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.11-08.16.47:301][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.11-08.16.47:373][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.09.11-08.16.47:682][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.11-08.16.47:731][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.11-08.16.47:734][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.11-08.16.47:734][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.11-08.16.47:734][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.11-08.16.47:734][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.11-08.16.47:829][  0]LogNetVersion: BlowStickTemplate 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3274951861)
+[2018.09.11-08.16.48:321][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.093502 seconds
+[2018.09.11-08.16.48:328][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.11-08.16.48:328][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.11-08.16.48:328][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.11-08.16.49:144][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.11-08.16.49:157][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.11-08.16.49:328][  0]SourceControl: Source control is disabled
+[2018.09.11-08.16.49:328][  0]SourceControl: Source control is disabled
+[2018.09.11-08.16.49:329][  0]SourceControl: Source control is disabled
+[2018.09.11-08.16.49:330][  0]SourceControl: Source control is disabled
+[2018.09.11-08.16.49:483][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.11-08.16.49:542][  0]LogOcInput: OculusInput pre-init called
+[2018.09.11-08.16.49:601][  0]LogEngine: Initializing Engine...
+[2018.09.11-08.16.49:602][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.11-08.16.49:603][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.11-08.16.49:603][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.11-08.16.49:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.11-08.16.49:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.11-08.16.49:803][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.11-08.16.49:816][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.11-08.16.49:840][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.16.49:875][  0]LogInit: FAudioDevice initialized.
+[2018.09.11-08.16.49:875][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.11-08.16.49:948][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Zoran/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.11-08.16.49:955][  0]LogInit: Texture streaming: Enabled
+[2018.09.11-08.16.49:969][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.11-08.16.49:980][  0]LogInit: Transaction tracking system initialized
+[2018.09.11-08.16.50:001][  0]BlueprintLog: New page: Editor Load
+[2018.09.11-08.16.50:073][  0]LocalizationService: Localization service is disabled
+[2018.09.11-08.16.50:315][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.11-08.16.50:315][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.11-08.16.50:315][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.11-08.16.50:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.11-08.16.50:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.11-08.16.50:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.11-08.16.50:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.11-08.16.50:429][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/' took 0.01s
+[2018.09.11-08.16.50:429][  0]SourceControl: Source control is disabled
+[2018.09.11-08.16.50:429][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.11-08.16.50:429][  0]LightingResults: New page: Lighting Build
+[2018.09.11-08.16.50:432][  0]MapCheck: New page: Map Check
+[2018.09.11-08.16.50:432][  0]LightingResults: New page: Lighting Build
+[2018.09.11-08.16.50:773][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.16.50:781][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.11-08.16.50:832][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.11-08.16.50:891][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59,263ms to complete.
+[2018.09.11-08.16.50:891][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.462
+[2018.09.11-08.16.51:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.16.51:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.16.51:049][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.16.51:056][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.16.51:062][  0]LogCollectionManager: Loaded 0 collections in 0.001728 seconds
+[2018.09.11-08.16.51:104][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Collections/' took 0.01s
+[2018.09.11-08.16.51:104][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/Developers/Zoran/Collections/' took 0.01s
+[2018.09.11-08.16.51:104][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/Collections/' took 0.01s
+[2018.09.11-08.16.51:104][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.11-08.16.51:113][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2574 classes and 606 folders.
+[2018.09.11-08.16.51:119][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.11-08.16.51:165][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.11-08.16.51:170][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.11-08.16.51:184][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.11-08.16.51:186][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.11-08.16.51:191][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.11-08.16.51:269][  0]LogRenderer: Reallocating scene render targets to support 1020x600 Format 10 NumSamples 1 (Frame:1).
+[2018.09.11-08.16.51:326][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.11-08.16.51:690][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.11-08.16.51:690][  0]LogLoad: (Engine Initialization) Total time: 8.15 seconds
+[2018.09.11-08.16.51:690][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.11-08.16.51:700][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.11-08.16.51:721][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.11-08.16.51:750][  1]LogAssetRegistry: Asset discovery search completed in 4.3997 seconds
+[2018.09.11-08.16.51:752][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.11-08.16.51:752][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2018.09.11-08.16.57:996][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-08.17.00:582][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-08.17.00:597][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.17.00:598][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-08.17.00:612][ 48]PIE: New page: PIE session: Minimal_Default (11.09.2018. 12.17.00)
+[2018.09.11-08.17.00:612][ 48]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.11-08.17.00:616][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004033s)
+[2018.09.11-08.17.00:617][ 48]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.17.00:617][ 48]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2018.09.11-08.17.00:617][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004933s)
+[2018.09.11-08.17.00:646][ 48]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.17.00:658][ 48]LogInit: FAudioDevice initialized.
+[2018.09.11-08.17.00:699][ 48]LogLoad: Game class is 'GameModeBase'
+[2018.09.11-08.17.00:702][ 48]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.11-10.17.00
+[2018.09.11-08.17.00:702][ 48]LogWorld: Bringing up level for play took: 0.001753
+[2018.09.11-08.17.00:772][ 48]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.09.11-08.17.00:779][ 48]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,198
+[2018.09.11-08.17.00:779][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.17.09:715][112]LogInit: WinSock: I am zoranrajcic (192.168.1.137:0)
+[2018.09.11-08.17.09:716][112]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.17.09:728][112]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.11-08.17.15:368][789]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.11-08.17.15:694][828]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.17.15:706][828]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.11-08.17.17:364][ 28]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.11-08.17.19:364][268]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.11-08.17.21:365][508]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.11-08.17.22:061][591]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.11-08.17.24:317][592]LogTemp: Error: UDP Connection fail.
+[2018.09.11-08.17.26:686][876]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.11-08.17.28:942][877]LogTemp: Error: UDP Connection fail.
+[2018.09.11-08.17.28:948][877]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.17.28:948][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.17.28:979][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-08.17.28:979][877]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.17.29:002][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.17.29:049][880]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.09.11-08.17.34:629][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-08.17.34:794][294]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.11-08.17.34:800][294]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_BlowStick.BP_BlowStick
+[2018.09.11-08.17.35:392][294]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.11-08.17.36:255][294]LogSlate: Took 0.005140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.11-08.17.36:751][295]LogSlate: Took 0.004482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.11-08.17.59:176][ 16]BlueprintLog: New page: Compile BP_BlowStick
+[2018.09.11-08.18.01:010][112]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-08.18.01:055][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.18.01:055][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-08.18.01:055][112]PIE: New page: PIE session: Minimal_Default (11.09.2018. 12.18.01)
+[2018.09.11-08.18.01:055][112]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.11-08.18.01:058][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002917s)
+[2018.09.11-08.18.01:059][112]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.18.01:059][112]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2018.09.11-08.18.01:059][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003914s)
+[2018.09.11-08.18.01:095][112]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.18.01:108][112]LogInit: FAudioDevice initialized.
+[2018.09.11-08.18.01:145][112]LogLoad: Game class is 'GameModeBase'
+[2018.09.11-08.18.01:146][112]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.11-10.18.01
+[2018.09.11-08.18.01:146][112]LogWorld: Bringing up level for play took: 0.000660
+[2018.09.11-08.18.01:160][112]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,183
+[2018.09.11-08.18.01:160][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.18.02:980][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.18.02:980][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.18.03:039][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-08.18.03:039][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.18.03:069][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.18.03:433][221]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.09.11-08.18.04:558][316]LogSlate: Window 'BP_BlowStick*' being destroyed
+[2018.09.11-08.18.08:900][652]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_Default23DCCE124C44A50E0666FAB5617ACF95.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.11-08.18.08:935][652]LogFileHelpers: Saving map 'Minimal_Default' took 0.272
+[2018.09.11-08.18.08:938][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset" SILENT=true
+[2018.09.11-08.18.09:076][652]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick66BF25144A32C349A08F899C9DF9ADCD.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.11-08.18.10:985][854]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-08.18.11:001][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.18.11:001][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-08.18.11:001][854]PIE: New page: PIE session: Minimal_Default (11.09.2018. 12.18.11)
+[2018.09.11-08.18.11:001][854]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.11-08.18.11:004][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003060s)
+[2018.09.11-08.18.11:005][854]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.18.11:005][854]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2018.09.11-08.18.11:005][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004080s)
+[2018.09.11-08.18.11:040][854]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.18.11:052][854]LogInit: FAudioDevice initialized.
+[2018.09.11-08.18.11:082][854]LogLoad: Game class is 'GameModeBase'
+[2018.09.11-08.18.11:083][854]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.11-10.18.11
+[2018.09.11-08.18.11:083][854]LogWorld: Bringing up level for play took: 0.000596
+[2018.09.11-08.18.11:097][854]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,119
+[2018.09.11-08.18.11:097][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.18.24:976][517]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.18.24:988][517]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.11-08.18.25:367][563]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.11-08.18.25:368][563]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.11-08.18.27:368][803]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.11-08.18.27:368][803]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.11-08.18.29:368][ 43]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.11-08.18.29:368][ 43]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.11-08.18.31:285][273]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.11-08.18.31:394][286]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick Connected
+[2018.09.11-08.18.34:744][688]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.11-08.18.34:769][691]LogBlueprintUserMessages: [BP_BlowStick_2] Data Started.
+[2018.09.11-08.18.36:020][841]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.18.36:032][841]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.11-08.18.38:939][190]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.18.38:939][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.18.38:997][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-08.18.38:997][190]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.18.39:027][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.18.39:048][191]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.09.11-08.18.43:032][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick:EventGraph.K2Node_Event_4' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:OnReceiveUDP' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:OnReceiveBrodcastEvent' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:UDP_Data_Event' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:CustomEventMCalibrate' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:CustomEventZerroCalibration' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:DataEmitEvent' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:ReceiveTick' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:BlowStick_Stats' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:Ambient_Sound' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:Rotation_Cube' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:BlowStick_Rotator' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:BlowStick_Blow_Raw' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:BlowStick_Blow_Inertialised' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:BlowStick_Blow_Action' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:BlowStick_Yaw' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:BlowStick_Pitch' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:BlowStick_Roll' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:Waiting_UDP_Response_Delay' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:Color' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:BlowStick_Receive_RPYB_Port' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:BlowStick_UDP_Broadcast_Send_Port' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:BlowStick_UDP_Broadcast_Port' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:UDP_Desired_Host_Name' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:UDP_Server_Host_Name' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:UDP_Received_Message' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:UDP_Server_IP_Address' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:200][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:Temp_Server_IP_Address' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:DefaultSceneRoot' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.SKEL_BP_BlowStick_C:UserConstructionScript' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:BlowStick_Stats' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:Ambient_Sound' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:Rotation_Cube' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:BlowStick_Rotator' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:BlowStick_Blow_Raw' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:BlowStick_Blow_Inertialised' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:BlowStick_Blow_Action' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:BlowStick_Yaw' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:BlowStick_Pitch' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:BlowStick_Roll' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:Waiting_UDP_Response_Delay' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:Color' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:BlowStick_Receive_RPYB_Port' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:BlowStick_UDP_Broadcast_Send_Port' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:BlowStick_UDP_Broadcast_Port' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:UDP_Desired_Host_Name' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:UDP_Server_Host_Name' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:UDP_Received_Message' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:UDP_Server_IP_Address' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:Temp_Server_IP_Address' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:DefaultSceneRoot' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:ReceiveTick' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:UserConstructionScript' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:DataEmitEvent' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:CustomEventZerroCalibration' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:CustomEventMCalibrate' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:OnReceiveUDP' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:UDP_Data_Event' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:201][762]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick.BP_BlowStick_C:OnReceiveBrodcastEvent' ref from Metadata '/Game/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.18.52:361][762]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStickB8786EF7453EE5056591E1A6B8E5EF8A.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/blowstick-bp-unreal/BP_BlowStick.uasset'
+[2018.09.11-08.18.52:366][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset" SILENT=true
+[2018.09.11-08.18.52:376][762]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick915D133C40459B9FCF4B4AA63890ECF0.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.11-08.19.03:766][ 90]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick_Controller.BP_BlowStick_Controller_C' ref from Metadata '/Game/blowstick-bp-unreal/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.19.03:766][ 90]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick_Controller.SKEL_BP_BlowStick_Controller_C' ref from Metadata '/Game/blowstick-bp-unreal/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.19.03:766][ 90]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick_Controller.BP_BlowStick_Controller:EventGraph.K2Node_Event_4' ref from Metadata '/Game/blowstick-bp-unreal/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.19.03:766][ 90]LogMetaData: Removing '/Game/blowstick-bp-unreal/BP_BlowStick_Controller.BP_BlowStick_Controller:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/blowstick-bp-unreal/BP_BlowStick.PackageMetaData'
+[2018.09.11-08.19.03:927][ 90]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Controller587D891E47500B562000DB85890DF3CE.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/blowstick-bp-unreal/BP_BlowStick_Controller.uasset'
+[2018.09.11-08.19.04:108][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset" SILENT=true
+[2018.09.11-08.19.04:118][ 90]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStickCEFEC714409DE931A2BFFFB5D35E5FF2.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.11-08.19.48:585][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-08.19.48:606][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.19.48:606][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-08.19.48:606][ 66]PIE: New page: PIE session: Minimal_Default (11.09.2018. 12.19.48)
+[2018.09.11-08.19.48:606][ 66]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.11-08.19.48:609][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002747s)
+[2018.09.11-08.19.48:610][ 66]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.19.48:610][ 66]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2018.09.11-08.19.48:610][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003837s)
+[2018.09.11-08.19.48:646][ 66]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.19.48:658][ 66]LogInit: FAudioDevice initialized.
+[2018.09.11-08.19.48:688][ 66]LogLoad: Game class is 'GameModeBase'
+[2018.09.11-08.19.48:689][ 66]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.11-10.19.48
+[2018.09.11-08.19.48:689][ 66]LogWorld: Bringing up level for play took: 0.000685
+[2018.09.11-08.19.48:706][ 66]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,272
+[2018.09.11-08.19.48:706][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.19.53:332][611]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.19.53:344][611]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.11-08.19.56:490][989]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.19.56:503][989]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.11-08.20.00:867][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.20.00:867][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.20.00:901][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-08.20.00:901][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.20.00:931][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.20.00:976][516]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.09.11-08.20.30:772][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:PreConstruct' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:Construct' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:Tick' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:TextBlock_282' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:TextBlock_281' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:TextBlock_280' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:ConnectionStatus' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickYaw' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickRoll' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickPitch' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickLastBlowAction' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickBlowPowerRaw' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickBlowPowerInertialised' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickBlowAction' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.SKEL_UI_BlowStickStats_C' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C:TextBlock_282' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C:TextBlock_281' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C:TextBlock_280' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C:ConnectionStatus' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickYaw' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickRoll' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickPitch' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickLastBlowAction' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickBlowPowerRaw' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickBlowPowerInertialised' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:836][972]LogMetaData: Removing '/Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickBlowAction' ref from Metadata '/Game/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.20.54:882][972]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/UI_BlowStickStatsC3BEF5DE418BE4FAFEAB889AEFF46CAF.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/blowstick-bp-unreal/UI_BlowStickStats.uasset'
+[2018.09.11-08.20.55:207][972]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_ControllerDAF17F66411DA228CCDCE2B8DE2C626C.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/blowstick-bp-unreal/BP_BlowStick_Controller.uasset'
+[2018.09.11-08.20.57:199][208]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-08.20.57:216][208]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.20.57:216][208]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.11-08.20.57:261][208]LogPlayLevel: [PlayLevel] Compiling BP_BlowStick_Controller before play...
+[2018.09.11-08.20.57:461][208]LogPlayLevel: PlayLevel: Blueprint regeneration took 244 ms (1 blueprints)
+[2018.09.11-08.20.57:461][208]PIE: New page: PIE session: Minimal_Default (11.09.2018. 12.20.57)
+[2018.09.11-08.20.57:461][208]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.11-08.20.57:464][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002894s)
+[2018.09.11-08.20.57:465][208]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.20.57:465][208]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2018.09.11-08.20.57:465][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003837s)
+[2018.09.11-08.20.57:500][208]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.20.57:513][208]LogInit: FAudioDevice initialized.
+[2018.09.11-08.20.57:542][208]LogLoad: Game class is 'GameModeBase'
+[2018.09.11-08.20.57:544][208]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.11-10.20.57
+[2018.09.11-08.20.57:544][208]LogWorld: Bringing up level for play took: 0.000607
+[2018.09.11-08.20.57:562][208]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,584
+[2018.09.11-08.20.57:563][208]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.21.00:927][605]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.21.00:939][605]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.11-08.21.02:811][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.21.02:811][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.21.02:846][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-08.21.02:846][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.21.02:875][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.21.02:926][832]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.11-08.21.25:455][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-08.23.16:021][184]Cmd: TRANSACTION UNDO
+[2018.09.11-08.23.16:021][184]LogEditorTransaction: Undo Delete current selection
+[2018.09.11-08.23.54:055][548]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/blowstick-bp-unreal/UI_BlowStickStats.UI_BlowStickStats
+[2018.09.11-08.24.27:059][426]LogEditorTransaction: Undo Move Nodes
+[2018.09.11-08.24.28:459][584]LogEditorTransaction: Undo Paste clipboard contents
+[2018.09.11-08.24.59:433][281]Cmd: TRANSACTION UNDO
+[2018.09.11-08.24.59:433][281]LogEditorTransaction: Undo Move Nodes
+[2018.09.11-08.25.02:059][583]Cmd: TRANSACTION UNDO
+[2018.09.11-08.25.02:059][583]LogEditorTransaction: Undo Comment Bubble Visibility
+[2018.09.11-08.25.04:160][824]Cmd: TRANSACTION UNDO
+[2018.09.11-08.25.04:160][824]LogEditorTransaction: Undo Create Pin Link
+[2018.09.11-08.25.05:792][  9]Cmd: TRANSACTION UNDO
+[2018.09.11-08.25.05:792][  9]LogEditorTransaction: Undo Move Nodes
+[2018.09.11-08.25.07:132][159]Cmd: TRANSACTION UNDO
+[2018.09.11-08.25.07:132][159]LogEditorTransaction: Undo Move Nodes
+[2018.09.11-08.25.08:707][337]Cmd: TRANSACTION UNDO
+[2018.09.11-08.25.08:707][337]LogEditorTransaction: Undo Paste clipboard contents
+[2018.09.11-08.26.14:260][845]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.11-08.27.49:394][236]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_BlowStick_Template.BP_BlowStick_Template
+[2018.09.11-08.27.49:736][237]LogRenderer: Reallocating scene render targets to support 1180x744 Format 10 NumSamples 1 (Frame:1).
+[2018.09.11-08.28.05:718][131]Cmd: TRANSACTION UNDO
+[2018.09.11-08.28.05:718][131]LogEditorTransaction: Undo Move Nodes
+[2018.09.11-08.28.06:835][253]Cmd: TRANSACTION UNDO
+[2018.09.11-08.28.06:835][253]LogEditorTransaction: Undo Paste clipboard contents
+[2018.09.11-08.28.13:101][991]Cmd: TRANSACTION UNDO
+[2018.09.11-08.28.13:101][991]LogEditorTransaction: Undo Paste clipboard contents
+[2018.09.11-08.28.16:754][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_4 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_4
+[2018.09.11-08.28.16:755][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_134 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_134
+[2018.09.11-08.28.16:755][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_45 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_45
+[2018.09.11-08.28.16:755][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_132 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_132
+[2018.09.11-08.28.16:755][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_49 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_49
+[2018.09.11-08.28.16:755][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_26 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_26
+[2018.09.11-08.28.16:755][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_27 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_27
+[2018.09.11-08.28.16:755][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_50 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_50
+[2018.09.11-08.28.16:756][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_51 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_51
+[2018.09.11-08.28.16:756][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_133 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_133
+[2018.09.11-08.28.16:756][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_15 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_15
+[2018.09.11-08.28.16:756][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_32 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_32
+[2018.09.11-08.28.16:756][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_26 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_26
+[2018.09.11-08.28.16:756][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_27 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_27
+[2018.09.11-08.28.16:756][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_32 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_32
+[2018.09.11-08.28.16:757][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_28 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_28
+[2018.09.11-08.28.16:757][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_29 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_29
+[2018.09.11-08.28.16:757][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_4 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_4
+[2018.09.11-08.28.16:757][269]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.EdGraphNode_Comment_2 or EdGraphNode_Comment /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.EdGraphNode_Comment_2
+[2018.09.11-08.28.16:758][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_51 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_51
+[2018.09.11-08.28.16:758][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_IfThenElse_6 or K2Node_IfThenElse /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_IfThenElse_6
+[2018.09.11-08.28.16:758][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_52 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_52
+[2018.09.11-08.28.16:758][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_115 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_115
+[2018.09.11-08.28.16:758][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_116 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_116
+[2018.09.11-08.28.16:758][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_55 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_55
+[2018.09.11-08.28.16:759][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_117 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_117
+[2018.09.11-08.28.16:759][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_IfThenElse_7 or K2Node_IfThenElse /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_IfThenElse_7
+[2018.09.11-08.28.16:759][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_118 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_118
+[2018.09.11-08.28.16:759][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_0 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_0
+[2018.09.11-08.28.16:759][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_121 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_121
+[2018.09.11-08.28.16:760][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_122 or K2Node_CallFunction /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_CallFunction_122
+[2018.09.11-08.28.16:760][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_2 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_2
+[2018.09.11-08.28.16:760][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_3 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_3
+[2018.09.11-08.28.16:760][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_7 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_7
+[2018.09.11-08.28.16:760][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_11 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_11
+[2018.09.11-08.28.16:760][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_19 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_19
+[2018.09.11-08.28.16:761][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_18 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_18
+[2018.09.11-08.28.16:761][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_20 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_20
+[2018.09.11-08.28.16:761][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_21 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_21
+[2018.09.11-08.28.16:761][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_23 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_23
+[2018.09.11-08.28.16:761][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_24 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_24
+[2018.09.11-08.28.16:761][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_13 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_13
+[2018.09.11-08.28.16:761][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_25 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_25
+[2018.09.11-08.28.16:762][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_26 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_26
+[2018.09.11-08.28.16:762][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_27 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_27
+[2018.09.11-08.28.16:762][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_30 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_30
+[2018.09.11-08.28.16:762][269]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_31 or K2Node_VariableGet /Game/BP_BlowStick_Template.BP_BlowStick_Template:EventGraph.K2Node_VariableGet_31
+[2018.09.11-08.29.22:979][ 30]BlueprintLog: New page: Compile BP_BlowStick_Template
+[2018.09.11-08.29.23:008][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Stats" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Set BlowStick_Stats
+[2018.09.11-08.29.23:008][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Stats" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Stats
+[2018.09.11-08.29.23:008][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Stats" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Stats
+[2018.09.11-08.29.23:008][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Stats" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Stats
+[2018.09.11-08.29.23:008][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Stats" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Stats
+[2018.09.11-08.29.23:008][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Stats" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Stats
+[2018.09.11-08.29.23:008][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Stats" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Stats
+[2018.09.11-08.29.23:008][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Stats" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Stats
+[2018.09.11-08.29.23:009][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Stats" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Stats
+[2018.09.11-08.29.23:009][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Rotator" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Rotator
+[2018.09.11-08.29.23:009][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Blow_Action" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Blow_Action
+[2018.09.11-08.29.23:009][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Blow_Action" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Blow_Action
+[2018.09.11-08.29.23:009][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Rotator" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get
+[2018.09.11-08.29.23:009][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Blow_Raw" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Blow_Raw
+[2018.09.11-08.29.23:009][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Blow_Inertialised" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Blow_Inertialised
+[2018.09.11-08.29.23:009][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Blow_Action" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Blow_Action
+[2018.09.11-08.29.23:010][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.09.11-08.29.23:010][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Blow Action  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:010][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Blow Inertialised  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:010][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Blow Raw  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:010][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Rotator  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:010][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Blow Action  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:011][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Blow Action  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:011][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Rotator  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:011][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Stats  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:011][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Stats  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:011][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Stats  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:011][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Stats  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:011][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Stats  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:011][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Stats  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:011][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Stats  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:011][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Stats  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:011][ 30]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Stats  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.29.23:169][ 30]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] [0759,63] Compile of BP_BlowStick_Template failed. 17 Fatal Issue(s) 16 Warning(s) [in 189 ms] (/Game/BP_BlowStick_Template.BP_BlowStick_Template)
+[2018.09.11-08.29.44:701][568]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.11-08.30.34:671][504]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_Default_Auto1648751A14FBD27BE788EA79D5BFF67F7.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.09.11-08.30.34:682][504]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.185
+[2018.09.11-08.30.34:682][504]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2018.09.11-08.30.34:684][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_BlowStick_Template] ([1] browsable assets)...
+[2018.09.11-08.30.34:684][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_BlowStick_Template]
+[2018.09.11-08.30.34:728][504]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Template_Auto1351E56B04F17C3960A25E39BA12516BC.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/BP_BlowStick_Template_Auto1.uasset'
+[2018.09.11-08.30.34:730][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blowstick-bp-unreal/UI_BlowStickStats] ([1] browsable assets)...
+[2018.09.11-08.30.34:730][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/blowstick-bp-unreal/UI_BlowStickStats]
+[2018.09.11-08.30.34:759][504]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/UI_BlowStickStats_Auto1ACA647454D3D3B8F42E98BBBA36AC502.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/blowstick-bp-unreal/UI_BlowStickStats_Auto1.uasset'
+[2018.09.11-08.30.34:761][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blowstick-bp-unreal/BP_BlowStick_Controller] ([1] browsable assets)...
+[2018.09.11-08.30.34:761][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/blowstick-bp-unreal/BP_BlowStick_Controller]
+[2018.09.11-08.30.34:879][504]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Controller_Auto16E2C7C684AB1CC73AA445ABB1595CC69.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/blowstick-bp-unreal/BP_BlowStick_Controller_Auto1.uasset'
+[2018.09.11-08.30.34:880][504]LogFileHelpers: Auto-saving content packages took 0.197
+[2018.09.11-08.31.18:195][673]LogSlate: Took 0.004473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.11-08.32.28:954][ 78]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'BlowStick_Stats' instances, change its type, and recompile?
+[2018.09.11-08.32.35:347][819]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.11-08.32.35:349][819]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.11-08.33.55:667][355]LogEditorTransaction: Undo Create Pin Link
+[2018.09.11-08.33.56:242][414]LogEditorTransaction: Undo Create Pin Link
+[2018.09.11-08.33.56:891][492]LogEditorTransaction: Undo Move Nodes
+[2018.09.11-08.33.57:517][558]LogEditorTransaction: Undo Move Node
+[2018.09.11-08.33.58:701][691]LogEditorTransaction: Undo Move Node
+[2018.09.11-08.33.59:209][743]LogEditorTransaction: Undo Delete current selection
+[2018.09.11-08.34.00:304][865]LogEditorTransaction: Undo Add Node
+[2018.09.11-08.34.01:161][959]LogEditorTransaction: Undo Add Node
+[2018.09.11-08.34.04:694][374]LogEditorTransaction: Redo Add Node
+[2018.09.11-08.34.05:178][422]LogEditorTransaction: Redo Add Node
+[2018.09.11-08.34.06:178][533]LogEditorTransaction: Redo Delete current selection
+[2018.09.11-08.34.07:840][723]LogEditorTransaction: Redo Move Node
+[2018.09.11-08.34.08:458][788]LogEditorTransaction: Redo Move Node
+[2018.09.11-08.37.23:513][711]BlueprintLog: New page: Compile BP_BlowStick_Template
+[2018.09.11-08.37.24:777][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick_Template" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick_Template.uasset" SILENT=true
+[2018.09.11-08.37.24:823][830]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Template92CF4645405D200D1628F092990379EA.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick_Template.uasset'
+[2018.09.11-08.37.26:838][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-08.37.26:860][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.37.26:860][ 68]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.11-08.37.26:906][ 68]LogPlayLevel: [PlayLevel] Compiling BP_BlowStick_Controller before play...
+[2018.09.11-08.37.27:098][ 68]LogPlayLevel: [PlayLevel] Compiling UI_BlowStickStats before play...
+[2018.09.11-08.37.27:259][ 68]LogPlayLevel: PlayLevel: Blueprint regeneration took 399 ms (2 blueprints)
+[2018.09.11-08.37.27:260][ 68]PIE: New page: PIE session: Minimal_Default (11.09.2018. 12.37.27)
+[2018.09.11-08.37.27:260][ 68]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.11-08.37.27:263][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003016s)
+[2018.09.11-08.37.27:263][ 68]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.37.27:264][ 68]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2018.09.11-08.37.27:264][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004223s)
+[2018.09.11-08.37.27:303][ 68]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.37.27:316][ 68]LogInit: FAudioDevice initialized.
+[2018.09.11-08.37.27:324][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.37.27:361][ 68]LogLoad: Game class is 'GameModeBase'
+[2018.09.11-08.37.27:363][ 68]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.11-10.37.27
+[2018.09.11-08.37.27:363][ 68]LogWorld: Bringing up level for play took: 0.000726
+[2018.09.11-08.37.27:377][ 68]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,399
+[2018.09.11-08.37.27:377][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.37.27:463][ 68]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.09.11-08.37.29:259][270]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.37.29:259][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.37.29:276][270]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.11-08.37.29:308][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-08.37.29:309][270]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.37.29:365][271]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.09.11-08.37.39:754][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-08.37.40:855][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-08.37.41:108][624]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_DefaultB3B8D37042B38CB1F126658E75836B0E.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.11-08.37.41:143][624]LogFileHelpers: Saving map 'Minimal_Default' took 0.284
+[2018.09.11-08.37.41:175][624]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/UI_BlowStickStats6A1198FE404328764FD68E95A7D26F4E.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/blowstick-bp-unreal/UI_BlowStickStats.uasset'
+[2018.09.11-08.37.41:305][624]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_ControllerE5EF0E9347F5B33E9D7659B1847B0351.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/blowstick-bp-unreal/BP_BlowStick_Controller.uasset'
+[2018.09.11-08.37.42:753][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-08.37.42:861][808]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-08.37.42:895][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.37.42:895][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-08.37.42:895][808]PIE: New page: PIE session: Minimal_Default (11.09.2018. 12.37.42)
+[2018.09.11-08.37.42:895][808]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.11-08.37.42:898][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002822s)
+[2018.09.11-08.37.42:899][808]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.37.42:899][808]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2018.09.11-08.37.42:899][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003930s)
+[2018.09.11-08.37.42:939][808]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.37.42:951][808]LogInit: FAudioDevice initialized.
+[2018.09.11-08.37.42:985][808]LogLoad: Game class is 'GameModeBase'
+[2018.09.11-08.37.42:986][808]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.11-10.37.42
+[2018.09.11-08.37.42:987][808]LogWorld: Bringing up level for play took: 0.000633
+[2018.09.11-08.37.43:000][808]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,022
+[2018.09.11-08.37.43:000][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.37.45:689][127]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.37.45:701][127]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.11-08.37.53:832][103]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.11-08.37.56:088][104]LogTemp: Error: UDP Connection fail.
+[2018.09.11-08.37.59:048][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.37.59:049][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.37.59:083][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-08.37.59:083][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.37.59:137][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.37.59:159][460]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.11-08.38.03:027][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-08.38.03:118][933]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-08.38.03:137][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.38.03:137][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-08.38.03:137][933]PIE: New page: PIE session: Minimal_Default (11.09.2018. 12.38.03)
+[2018.09.11-08.38.03:137][933]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.11-08.38.03:141][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003032s)
+[2018.09.11-08.38.03:141][933]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.38.03:141][933]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2018.09.11-08.38.03:141][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003854s)
+[2018.09.11-08.38.03:180][933]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.38.03:191][933]LogInit: FAudioDevice initialized.
+[2018.09.11-08.38.03:222][933]LogLoad: Game class is 'GameModeBase'
+[2018.09.11-08.38.03:224][933]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.11-10.38.03
+[2018.09.11-08.38.03:224][933]LogWorld: Bringing up level for play took: 0.001054
+[2018.09.11-08.38.03:240][933]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,262
+[2018.09.11-08.38.03:240][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.38.05:916][249]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.38.05:928][249]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.11-08.38.08:826][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.38.08:827][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.38.08:862][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-08.38.08:862][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.38.08:895][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.38.08:934][600]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.11-08.38.10:562][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-08.39.11:470][922]LogSlate: Window 'Content Browser 2' being destroyed
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickBlowAction' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickBlowPowerRaw' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickBlowPowerInertialised' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats:EventGraph.K2Node_Event_0' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats:EventGraph.K2Node_Event_1' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats:EventGraph.K2Node_Event_2' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickLastBlowAction' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickPitch' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickRoll' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:BlowStickYaw' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:ConnectionStatus' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:TextBlock_280' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:TextBlock_281' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:TextBlock_282' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:Tick' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:Construct' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.SKEL_UI_BlowStickStats_C:PreConstruct' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C:TextBlock_282' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C:TextBlock_281' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C:TextBlock_280' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C:ConnectionStatus' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickYaw' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickRoll' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickPitch' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickLastBlowAction' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickBlowPowerRaw' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickBlowPowerInertialised' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:145][959]LogMetaData: Removing '/Game/UI_BlowStickStats.UI_BlowStickStats_C:BlowStickBlowAction' ref from Metadata '/Game/blowstick-bp-unreal/UI_BlowStickStats.PackageMetaData'
+[2018.09.11-08.39.20:163][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_BlowStickStats" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/UI_BlowStickStats.uasset" SILENT=true
+[2018.09.11-08.39.20:184][959]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/UI_BlowStickStatsFB27783E486882852D70AD9133B6C1D5.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/UI_BlowStickStats.uasset'
+[2018.09.11-08.39.20:380][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick_Template" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick_Template.uasset" SILENT=true
+[2018.09.11-08.39.20:432][959]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_TemplateB807CEDF40B68CDF86CD1E8769781B30.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick_Template.uasset'
+[2018.09.11-08.39.20:547][959]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_ControllerED5100A14F4F9DD0CE5C98809EEEE51C.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/blowstick-bp-unreal/BP_BlowStick_Controller.uasset'
+[2018.09.11-08.39.30:385][127]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-08.39.30:405][127]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.39.30:405][127]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.11-08.39.30:442][127]LogPlayLevel: [PlayLevel] Compiling BP_BlowStick_Controller before play...
+[2018.09.11-08.39.30:642][127]LogPlayLevel: [PlayLevel] Compiling BP_BlowStick_Template before play...
+[2018.09.11-08.39.30:799][127]LogPlayLevel: PlayLevel: Blueprint regeneration took 394 ms (2 blueprints)
+[2018.09.11-08.39.30:800][127]PIE: New page: PIE session: Minimal_Default (11.09.2018. 12.39.30)
+[2018.09.11-08.39.30:800][127]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.11-08.39.30:803][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002966s)
+[2018.09.11-08.39.30:803][127]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.39.30:803][127]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2018.09.11-08.39.30:803][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003731s)
+[2018.09.11-08.39.30:841][127]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.39.30:853][127]LogInit: FAudioDevice initialized.
+[2018.09.11-08.39.30:893][127]LogLoad: Game class is 'GameModeBase'
+[2018.09.11-08.39.30:897][127]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.11-10.39.30
+[2018.09.11-08.39.30:897][127]LogWorld: Bringing up level for play took: 0.001991
+[2018.09.11-08.39.30:919][127]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,059
+[2018.09.11-08.39.30:919][127]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.39.32:737][339]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.39.32:749][339]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.11-08.39.33:146][387]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.11-08.39.35:145][627]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.11-08.39.36:555][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.39.36:555][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.39.36:585][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-08.39.36:586][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.39.36:618][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.39.36:669][799]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.11-08.39.38:839][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-08.39.38:930][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-08.39.38:956][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.39.38:957][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-08.39.38:957][ 70]PIE: New page: PIE session: Minimal_Default (11.09.2018. 12.39.38)
+[2018.09.11-08.39.38:957][ 70]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.11-08.39.38:960][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002954s)
+[2018.09.11-08.39.38:960][ 70]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.39.38:961][ 70]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.09.11-08.39.38:961][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003931s)
+[2018.09.11-08.39.38:999][ 70]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.39.39:011][ 70]LogInit: FAudioDevice initialized.
+[2018.09.11-08.39.39:044][ 70]LogLoad: Game class is 'GameModeBase'
+[2018.09.11-08.39.39:046][ 70]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.11-10.39.39
+[2018.09.11-08.39.39:047][ 70]LogWorld: Bringing up level for play took: 0.001420
+[2018.09.11-08.39.39:065][ 70]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,088
+[2018.09.11-08.39.39:066][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.39.40:845][277]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.39.40:857][277]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.11-08.39.41:905][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.39.41:906][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.39.41:940][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-08.39.41:941][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.39.41:973][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.39.42:012][406]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.09.11-08.39.46:050][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-08.44.52:647][855]BlueprintLog: New page: Compile BP_BlowStick_Template
+[2018.09.11-08.44.52:691][855]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Rotator" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Rotator
+[2018.09.11-08.44.52:691][855]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Blow_Inertialised" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get BlowStick_Blow_Inertialised
+[2018.09.11-08.44.52:691][855]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "Ambient_Sound" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get Ambient_Sound
+[2018.09.11-08.44.52:691][855]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "BlowStick_Rotator" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get
+[2018.09.11-08.44.52:691][855]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "Ambient_Sound" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get Ambient_Sound
+[2018.09.11-08.44.52:691][855]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "Rotation_Cube" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Get Rotation_Cube
+[2018.09.11-08.44.52:691][855]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "Rotation_Cube" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Set Rotation_Cube
+[2018.09.11-08.44.52:692][855]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] Could not find a variable named "Ambient_Sound" in 'BP_BlowStick_Template_C'.
+Make sure 'BP_BlowStick_Template_C' has been compiled for  Set Ambient_Sound
+[2018.09.11-08.44.52:692][855]LogBlueprint: Error: [Compiler BP_BlowStick_Template] This blueprint (self) is not a AmbientSound, therefore ' Target ' must have a connection.
+[2018.09.11-08.44.52:693][855]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Ambient Sound  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.44.52:693][855]LogBlueprint: Error: [Compiler BP_BlowStick_Template] Variable node  Get AudioComponent  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.09.11-08.44.52:693][855]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Rotation Cube  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.44.52:693][855]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Rotation Cube  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.44.52:693][855]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Ambient Sound  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.44.52:693][855]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Rotator  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.44.52:694][855]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Ambient Sound  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.44.52:694][855]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Blow Inertialised  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.44.52:694][855]LogBlueprint: Error: [Compiler BP_BlowStick_Template] The property associated with  Blow Stick Rotator  could not be found in '/Game/BP_BlowStick_Template.BP_BlowStick_Template_C'
+[2018.09.11-08.44.52:846][855]LogBlueprint: Warning: [Compiler BP_BlowStick_Template] [1689,31] Compile of BP_BlowStick_Template failed. 10 Fatal Issue(s) 8 Warning(s) [in 198 ms] (/Game/BP_BlowStick_Template.BP_BlowStick_Template)
+[2018.09.11-08.47.15:967][966]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'Rotation_Cube' instances, change its type, and recompile?
+[2018.09.11-08.47.18:424][244]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.11-08.47.18:426][244]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.11-08.48.06:021][868]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'Ambient_Sound' instances, change its type, and recompile?
+[2018.09.11-08.48.07:992][ 88]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.11-08.48.07:995][ 88]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.11-08.49.42:798][195]Cmd: TRANSACTION UNDO
+[2018.09.11-08.49.42:798][195]LogEditorTransaction: Undo Create Pin Link
+[2018.09.11-08.49.43:380][195]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.581 s
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: 
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: 
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: Stack: 
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa9b8071e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa9b540c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa9b55b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa988df198 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa96d84c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa96db01fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa96d96535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa96e02dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa96e49b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa96ddc81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa96d9599c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa96d8f5d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa9766da23 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa875777ce UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffa87577bee UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaa83e29fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaa84e4fce UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaa84ed660 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaa84c1e2f UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaa85a9c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaa84ef375 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaa83994c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaa8431db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaa8417c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaa840b25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffad082d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffad0820270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffad082f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffad081c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaf36c6cc1 USER32.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaf36c6693 USER32.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffad0830646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ff67bb754e5 UE4Editor.exe!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ff67bb85b3c UE4Editor.exe!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ff67bb85bba UE4Editor.exe!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ff67bb93dac UE4Editor.exe!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ff67bb95aaa UE4Editor.exe!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaf53d3034 KERNEL32.DLL!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: [Callstack] 0x00007ffaf5e71431 ntdll.dll!UnknownFunction []
+[2018.09.11-08.49.43:380][195]LogOutputDevice: Error: 
+[2018.09.11-08.49.43:382][195]LogStats:                SubmitErrorReport -  0.000 s
+[2018.09.11-08.49.43:737][195]LogStats:                    SendNewReport -  0.355 s
+[2018.09.11-08.49.43:737][195]LogStats:             FDebug::EnsureFailed -  0.938 s
+[2018.09.11-08.50.28:004][420]BlueprintLog: New page: Compile BP_BlowStick_Template
+[2018.09.11-08.50.28:662][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick_Template" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick_Template.uasset" SILENT=true
+[2018.09.11-08.50.28:732][460]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Template0D62B9E442370ACF5E6E7CB24BB5DF21.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick_Template.uasset'
+[2018.09.11-08.50.29:721][570]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-08.50.29:758][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.50.29:758][570]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.11-08.50.29:789][570]LogPlayLevel: [PlayLevel] Compiling BP_BlowStick_Controller before play...
+[2018.09.11-08.50.30:007][570]LogPlayLevel: PlayLevel: Blueprint regeneration took 248 ms (1 blueprints)
+[2018.09.11-08.50.30:007][570]PIE: New page: PIE session: Minimal_Default (11.09.2018. 12.50.30)
+[2018.09.11-08.50.30:007][570]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.11-08.50.30:010][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003065s)
+[2018.09.11-08.50.30:011][570]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.11-08.50.30:011][570]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2018.09.11-08.50.30:011][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004243s)
+[2018.09.11-08.50.30:050][570]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-08.50.30:063][570]LogInit: FAudioDevice initialized.
+[2018.09.11-08.50.30:070][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.50.30:106][570]LogLoad: Game class is 'GameModeBase'
+[2018.09.11-08.50.30:108][570]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.11-10.50.30
+[2018.09.11-08.50.30:108][570]LogWorld: Bringing up level for play took: 0.000849
+[2018.09.11-08.50.30:123][570]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,145
+[2018.09.11-08.50.30:124][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.50.35:368][ 42]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.50.35:380][ 42]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.11-08.50.37:132][204]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.11-08.50.37:144][204]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.11-08.50.44:339][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.50.44:339][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-08.50.44:357][858]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.11-08.50.44:405][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-08.50.44:405][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.11-08.50.44:531][859]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.11-08.50.53:198][811]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_DefaultAC191577404B706BB2636CB8B70B686B.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.11-08.50.53:229][811]LogFileHelpers: Saving map 'Minimal_Default' took 0.278
+[2018.09.11-08.50.53:230][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick_Template" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick_Template.uasset" SILENT=true
+[2018.09.11-08.50.53:294][811]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Template8DC257584466650516621494EE02BD62.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick_Template.uasset'
+[2018.09.11-08.50.53:400][811]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_ControllerA02C12DC45E5FA4F554378AFC2FA0426.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/blowstick-bp-unreal/BP_BlowStick_Controller.uasset'
+[2018.09.11-08.51.55:400][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick_Template" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick_Template.uasset" SILENT=true
+[2018.09.11-08.51.55:463][563]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Template9D1B1D3B44AE09FEB4D658B15A811734.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick_Template.uasset'
+[2018.09.11-08.52.15:753][575]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_DefaultCC82E71F49223EAE30E779A1EDA9A092.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.11-08.52.15:783][575]LogFileHelpers: Saving map 'Minimal_Default' took 0.273
+[2018.09.11-08.52.15:877][575]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Controller1AFB7CA141F318DECA2DCE83FF601578.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/blowstick-bp-unreal/BP_BlowStick_Controller.uasset'
+[2018.09.11-08.52.23:937][336]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.11-08.52.23:993][336]LogSlate: Window 'BlowStickTemplate - Unreal Editor' being destroyed
+[2018.09.11-08.52.24:215][337]Cmd: QUIT_EDITOR
+[2018.09.11-08.52.25:042][337]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.11-08.52.25:077][337]LogExit: Preparing to exit.
+[2018.09.11-08.52.25:296][337]LogExit: Editor shut down
+[2018.09.11-08.52.25:296][337]LogExit: Transaction tracking system shut down
+[2018.09.11-08.52.26:136][337]LogExit: Object subsystem successfully closed.
+[2018.09.11-08.52.26:147][337]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.11-08.52.26:150][337]LogD3D11RHI: Shutdown
+[2018.09.11-08.52.26:150][337]LogD3D11RHI: CleanupD3DDevice
+[2018.09.11-08.52.26:151][337]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module SequencerWidgets (620)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2018.09.11-08.52.26:169][337]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2018.09.11-08.52.26:170][337]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2018.09.11-08.52.27:196][337]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2018.09.11-08.52.27:196][337]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2018.09.11-08.52.27:196][337]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2018.09.11-08.52.27:196][337]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2018.09.11-08.52.27:196][337]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.09.11-08.52.27:197][337]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.09.11-08.52.27:197][337]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.09.11-08.52.27:197][337]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.09.11-08.52.27:197][337]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.09.11-08.52.27:197][337]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.09.11-08.52.27:197][337]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.09.11-08.52.27:197][337]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.09.11-08.52.27:197][337]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.09.11-08.52.27:197][337]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.09.11-08.52.27:197][337]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.09.11-08.52.27:198][337]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.09.11-08.52.27:198][337]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.09.11-08.52.27:198][337]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.09.11-08.52.27:198][337]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.09.11-08.52.27:198][337]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.09.11-08.52.27:198][337]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.09.11-08.52.27:198][337]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.09.11-08.52.27:263][337]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.09.11-08.52.27:263][337]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.09.11-08.52.27:263][337]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.09.11-08.52.27:263][337]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.09.11-08.52.27:263][337]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.09.11-08.52.27:263][337]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.09.11-08.52.27:264][337]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.09.11-08.52.27:264][337]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.09.11-08.52.27:264][337]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.09.11-08.52.27:264][337]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.09.11-08.52.27:280][337]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.09.11-08.52.27:280][337]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.09.11-08.52.27:284][337]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.09.11-08.52.27:284][337]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.09.11-08.52.27:284][337]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.09.11-08.52.27:285][337]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.09.11-08.52.27:286][337]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.09.11-08.52.27:286][337]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.09.11-08.52.27:286][337]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.09.11-08.52.27:286][337]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.09.11-08.52.27:286][337]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.09.11-08.52.27:418][337]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.09.11-08.52.27:418][337]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.09.11-08.52.27:418][337]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.09.11-08.52.27:419][337]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.09.11-08.52.27:429][337]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.09.11-08.52.27:429][337]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.09.11-08.52.27:429][337]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.09.11-08.52.27:429][337]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.09.11-08.52.27:429][337]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.09.11-08.52.27:430][337]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.09.11-08.52.27:430][337]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.09.11-08.52.27:430][337]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.09.11-08.52.27:430][337]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.09.11-08.52.27:430][337]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.09.11-08.52.27:430][337]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.09.11-08.52.27:430][337]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.09.11-08.52.27:431][337]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.09.11-08.52.27:431][337]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.09.11-08.52.27:431][337]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.09.11-08.52.27:432][337]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.09.11-08.52.27:432][337]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.09.11-08.52.27:432][337]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.09.11-08.52.27:432][337]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.09.11-08.52.27:432][337]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.09.11-08.52.27:432][337]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.09.11-08.52.27:432][337]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.09.11-08.52.27:432][337]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.09.11-08.52.27:432][337]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.09.11-08.52.27:432][337]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.09.11-08.52.27:433][337]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.09.11-08.52.27:433][337]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.09.11-08.52.27:433][337]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.09.11-08.52.27:433][337]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.09.11-08.52.27:433][337]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.09.11-08.52.27:433][337]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.09.11-08.52.27:433][337]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.09.11-08.52.27:433][337]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2018.09.11-08.52.27:433][337]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2018.09.11-08.52.27:433][337]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2018.09.11-08.52.27:433][337]LogModuleManager: Shutting down and abandoning module OculusEditor (294)
+[2018.09.11-08.52.27:434][337]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2018.09.11-08.52.27:434][337]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (290)
+[2018.09.11-08.52.27:434][337]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (288)
+[2018.09.11-08.52.27:434][337]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2018.09.11-08.52.27:434][337]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2018.09.11-08.52.27:535][337]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2018.09.11-08.52.27:636][337]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (280)
+[2018.09.11-08.52.27:636][337]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2018.09.11-08.52.27:636][337]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2018.09.11-08.52.27:636][337]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2018.09.11-08.52.27:636][337]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2018.09.11-08.52.27:636][337]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2018.09.11-08.52.27:636][337]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.09.11-08.52.27:637][337]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.09.11-08.52.27:637][337]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2018.09.11-08.52.27:637][337]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2018.09.11-08.52.27:637][337]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2018.09.11-08.52.27:638][337]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2018.09.11-08.52.27:639][337]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2018.09.11-08.52.27:639][337]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2018.09.11-08.52.27:639][337]LogModuleManager: Shutting down and abandoning module AISupportModule (252)
+[2018.09.11-08.52.27:639][337]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2018.09.11-08.52.27:639][337]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2018.09.11-08.52.27:639][337]LogModuleManager: Shutting down and abandoning module WmfMedia (246)
+[2018.09.11-08.52.27:641][337]LogModuleManager: Shutting down and abandoning module Media (245)
+[2018.09.11-08.52.27:648][337]LogModuleManager: Shutting down and abandoning module SocketClient (242)
+[2018.09.11-08.52.27:648][337]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.09.11-08.52.27:649][337]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.09.11-08.52.27:650][337]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.09.11-08.52.27:650][337]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.09.11-08.52.27:650][337]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.09.11-08.52.27:650][337]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.09.11-08.52.27:650][337]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.09.11-08.52.27:650][337]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.09.11-08.52.27:656][337]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.09.11-08.52.27:656][337]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.09.11-08.52.27:656][337]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.09.11-08.52.27:656][337]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.09.11-08.52.27:656][337]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.09.11-08.52.27:656][337]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.09.11-08.52.27:656][337]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.09.11-08.52.27:656][337]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.09.11-08.52.27:656][337]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.09.11-08.52.27:656][337]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.09.11-08.52.27:657][337]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.09.11-08.52.27:657][337]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.09.11-08.52.27:657][337]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.09.11-08.52.27:657][337]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.09.11-08.52.27:657][337]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.09.11-08.52.27:657][337]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.09.11-08.52.27:657][337]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.09.11-08.52.27:657][337]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.09.11-08.52.27:707][337]LogDerivedDataCache: Shutdown
+[2018.09.11-08.52.27:707][337]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.09.11-08.52.27:707][337]LogXGEController: Cleaning working directory: C:/Users/Zoran/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.11-08.52.27:708][337]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.09.11-08.52.27:708][337]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.09.11-08.52.27:708][337]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.09.11-08.52.27:708][337]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.09.11-08.52.27:708][337]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.09.11-08.52.27:708][337]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.09.11-08.52.27:708][337]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.09.11-08.52.27:708][337]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.09.11-08.52.27:708][337]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.09.11-08.52.27:708][337]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.09.11-08.52.27:709][337]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.09.11-08.52.27:712][337]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.09.11-08.52.27:712][337]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.09.11-08.52.27:714][337]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.09.11-08.52.27:714][337]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.11-08.52.27:736][337]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.11-08.52.27:737][337]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.11-08.52.27:737][337]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.11-08.52.27:737][337]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.11-08.52.27:738][337]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.11-08.52.27:738][337]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.11-08.52.27:747][337]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.11-08.52.27:747][337]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.09.11-08.52.27:747][337]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFAA8A0B6-40EF-3687-DF73-35A3DC2AA4DF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=98cd2c2e405b3505c944848ca4b8d6b9%7C818f5f51634c40e691edcbfd2e1a0455%7C889ac455-abf2-470e-8222-e1d89793a521&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.11-08.52.27:747][337]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFAA8A0B6-40EF-3687-DF73-35A3DC2AA4DF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=98cd2c2e405b3505c944848ca4b8d6b9%7C818f5f51634c40e691edcbfd2e1a0455%7C889ac455-abf2-470e-8222-e1d89793a521&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.11-08.52.27:775][337]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.11-08.52.27:778][337]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.11-08.52.27:778][337]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.11-08.52.27:778][337]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.11-08.52.27:779][337]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.11-08.52.27:779][337]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.11-08.52.27:779][337]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.11-08.52.27:779][337]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.11-08.52.27:779][337]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.11-08.52.27:779][337]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.11-08.52.27:779][337]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.11-08.52.27:779][337]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.11-08.52.27:780][337]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.11-08.52.27:780][337]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.11-08.52.27:780][337]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.11-08.52.27:780][337]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.11-08.52.27:780][337]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.11-08.52.27:781][337]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.11-08.52.27:781][337]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.11-08.52.27:783][337]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.11-08.52.27:783][337]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.11-08.52.27:783][337]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.11-08.52.27:784][337]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.11-08.52.27:784][337]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.11-08.52.27:784][337]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.11-08.52.27:784][337]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.11-08.52.27:784][337]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.11-08.52.27:784][337]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.11-08.52.27:784][337]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.11-08.52.27:784][337]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.11-08.52.27:805][337]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.021 s
+[2018.09.11-08.52.27:805][337]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.11-08.52.27:805][337]LogOutputDevice: Error: 
+[2018.09.11-08.52.27:805][337]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:D:\RocketSync\4.20.0-4212847+++UE4+Release-4.20\Working\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1058]
+[2018.09.11-08.52.27:805][337]LogOutputDevice: Error: Unable to bind delegate to 'socketClientConnectionEventDelegate' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: Stack: 
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa9b8071e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa9b540c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa9b55b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa880d3fca UE4Editor-SocketClient.dll!TBaseDynamicDelegate<FWeakObjectPtr,void,bool,FString>::__Internal_BindDynamic<USocketClientBPLibrary>() [d:\rocketsync\4.20.0-4212847+++ue4+release-4.20\working\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:1058]
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa880d4e3b UE4Editor-SocketClient.dll!USocketClientBPLibrary::USocketClientBPLibrary() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclientbplibrary.cpp:17]
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa9b0a2e1a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa880d3242 UE4Editor-SocketClient.dll!NewObject<USocketClientBPLibrary>() [d:\rocketsync\4.20.0-4212847+++ue4+release-4.20\working\engine\source\runtime\coreuobject\public\uobject\uobjectglobals.h:1162]
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa880e1304 UE4Editor-SocketClient.dll!USocketClientHandler::getSocketClientTarget() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclienthandler.cpp:17]
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa880d5f90 UE4Editor-SocketClient.dll!<lambda_2cf0b6947aac3c61518627cb097f1265>::operator()() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclientbplibrary.cpp:149]
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa9b3b6347 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa9b3c1f92 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa9b3c2456 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa9b3d6d25 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa9b3d6710 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa9b6a0e7e UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ffa9b6df523 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.11-08.52.27:806][337]LogOutputDevice: Error: [Callstack] 0x00007ff67bb85208 UE4Editor.exe!UnknownFunction []
+[2018.09.11-08.52.27:807][337]LogOutputDevice: Error: [Callstack] 0x00007ff67bb85b71 UE4Editor.exe!UnknownFunction []
+[2018.09.11-08.52.27:807][337]LogOutputDevice: Error: [Callstack] 0x00007ff67bb85bba UE4Editor.exe!UnknownFunction []
+[2018.09.11-08.52.27:807][337]LogOutputDevice: Error: [Callstack] 0x00007ff67bb93dac UE4Editor.exe!UnknownFunction []
+[2018.09.11-08.52.27:807][337]LogOutputDevice: Error: [Callstack] 0x00007ff67bb95aaa UE4Editor.exe!UnknownFunction []
+[2018.09.11-08.52.27:807][337]LogOutputDevice: Error: [Callstack] 0x00007ffaf53d3034 KERNEL32.DLL!UnknownFunction []
+[2018.09.11-08.52.27:807][337]LogOutputDevice: Error: [Callstack] 0x00007ffaf5e71431 ntdll.dll!UnknownFunction []
+[2018.09.11-08.52.27:807][337]LogOutputDevice: Error: 
+[2018.09.11-08.52.27:810][337]LogStats:                SubmitErrorReport -  0.000 s

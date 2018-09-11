@@ -1,0 +1,1508 @@
+﻿Log file open, 09/10/18 16:48:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BlowStickTemplate
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.182111
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SocketClient
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.095s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: Radeon RX Vega
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.10-14.48.28:416][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.10-14.48.28:416][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.10-14.48.28:443][  0]LogHAL: Display: Platform has ~ 16 GB [17113829376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.10-14.48.28:443][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.10-14.48.28:443][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.10-14.48.28:443][  0]LogInit: Computer: ZORANRAJCIC
+[2018.09.10-14.48.28:443][  0]LogInit: User: Zoran
+[2018.09.10-14.48.28:443][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.10-14.48.28:443][  0]LogInit: High frequency timer resolution =3.117778 MHz
+[2018.09.10-14.48.28:444][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.10-14.48.28:444][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.10-14.48.28:444][  0]LogMemory: Process Physical Memory: 99.84 MB used, 99.84 MB peak
+[2018.09.10-14.48.28:444][  0]LogMemory: Process Virtual Memory: 90.10 MB used, 90.10 MB peak
+[2018.09.10-14.48.28:444][  0]LogMemory: Physical Memory: 5732.12 MB used,  10588.90 MB free, 16321.02 MB total
+[2018.09.10-14.48.28:444][  0]LogMemory: Virtual Memory: 4626.49 MB used,  10588.90 MB free, 134217728.00 MB total
+[2018.09.10-14.48.28:457][  0]LogInit: Using OS detected language (en-US).
+[2018.09.10-14.48.28:457][  0]LogInit: Using OS detected locale (sr-Latn-RS).
+[2018.09.10-14.48.28:458][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.10-14.48.28:870][  0]LogStreaming: Display: Took  0.413s to InitEngineTextLocalization.
+[2018.09.10-14.48.28:871][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.10-14.48.28:894][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.10-14.48.28:894][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.10-14.48.29:077][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.10-14.48.29:077][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.10-14.48.29:100][  0]LogD3D11RHI:    0. 'Radeon RX Vega' (Feature Level 11_0)
+[2018.09.10-14.48.29:100][  0]LogD3D11RHI:       8121/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.09.10-14.48.29:101][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.10-14.48.29:101][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.10-14.48.29:101][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.10-14.48.29:106][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.10-14.48.29:106][  0]LogD3D11RHI:     GPU DeviceId: 0x687f (for the marketing name, search the web for "GPU Device Id")
+[2018.09.10-14.48.29:106][  0]LogWindows: EnumDisplayDevices:
+[2018.09.10-14.48.29:106][  0]LogWindows:    0. 'Radeon RX Vega' (P:1 D:1)
+[2018.09.10-14.48.29:106][  0]LogWindows:    1. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:107][  0]LogWindows:    2. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:107][  0]LogWindows:    3. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:107][  0]LogWindows:    4. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:107][  0]LogWindows:    5. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:108][  0]LogWindows:    6. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:108][  0]LogWindows:    7. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:108][  0]LogWindows:    8. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:108][  0]LogWindows:    9. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:109][  0]LogWindows:    10. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:109][  0]LogWindows:    11. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:109][  0]LogWindows:    12. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:109][  0]LogWindows:    13. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:110][  0]LogWindows:    14. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:110][  0]LogWindows:    15. 'Radeon RX Vega' (P:0 D:0)
+[2018.09.10-14.48.29:110][  0]LogWindows: DebugString: FoundDriverCount:16 
+[2018.09.10-14.48.29:110][  0]LogD3D11RHI:     Adapter Name: Radeon RX Vega
+[2018.09.10-14.48.29:110][  0]LogD3D11RHI:   Driver Version: Adrenalin 17.12.2 (internal:23.20.15007.1005, unified:23.20.15007.1005)
+[2018.09.10-14.48.29:110][  0]LogD3D11RHI:      Driver Date: 12-17-2017
+[2018.09.10-14.48.29:110][  0]LogRHI: Texture pool is 5684 MB (70% of 8121 MB)
+[2018.09.10-14.48.29:173][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.10-14.48.29:184][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.09.10-14.48.29:186][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Intermediate/Shaders/WorkingDirectory/9024/).
+[2018.09.10-14.48.29:186][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Zoran/AppData/Local/Temp/UnrealShaderWorkingDir/CD0D91CB428B5FB132D65188ADA07427/'.
+[2018.09.10-14.48.29:448][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.10-14.48.29:462][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.10-14.48.29:476][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.10-14.48.29:490][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.10-14.48.29:505][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.10-14.48.29:519][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.10-14.48.29:532][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.10-14.48.29:547][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.10-14.48.29:554][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:636][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.10-14.48.29:638][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.10-14.48.29:700][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.10-14.48.29:700][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.10-14.48.29:725][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.10-14.48.29:725][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.10-14.48.29:738][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.10-14.48.29:750][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.10-14.48.29:763][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.10-14.48.29:776][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.10-14.48.29:786][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.10-14.48.29:786][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.10-14.48.29:842][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.10-14.48.29:842][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.10-14.48.29:842][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.10-14.48.30:589][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.10-14.48.30:650][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Zoran/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.10-14.48.30:650][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Zoran/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.10-14.48.30:650][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.10-14.48.30:651][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.10-14.48.30:651][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.10-14.48.30:651][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.10-14.48.30:664][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.10-14.48.30:676][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Zoran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.10-14.48.30:676][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.10-14.48.30:676][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.10-14.48.30:696][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.10-14.48.30:698][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.10-14.48.30:698][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.10-14.48.30:772][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.09.10-14.48.31:094][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.10-14.48.31:143][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.10-14.48.31:146][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.10-14.48.31:146][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.10-14.48.31:146][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.10-14.48.31:146][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.10-14.48.31:245][  0]LogNetVersion: BlowStickTemplate 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3274951861)
+[2018.09.10-14.48.31:753][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.094530 seconds
+[2018.09.10-14.48.31:759][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.10-14.48.31:759][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.10-14.48.31:759][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.10-14.48.32:599][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.10-14.48.32:612][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.10-14.48.32:767][  0]SourceControl: Source control is disabled
+[2018.09.10-14.48.32:767][  0]SourceControl: Source control is disabled
+[2018.09.10-14.48.32:768][  0]SourceControl: Source control is disabled
+[2018.09.10-14.48.32:769][  0]SourceControl: Source control is disabled
+[2018.09.10-14.48.32:925][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.10-14.48.32:986][  0]LogOcInput: OculusInput pre-init called
+[2018.09.10-14.48.33:047][  0]LogEngine: Initializing Engine...
+[2018.09.10-14.48.33:048][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.10-14.48.33:049][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.10-14.48.33:049][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.10-14.48.33:049][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.10-14.48.33:049][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.10-14.48.33:258][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.10-14.48.33:272][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.10-14.48.33:297][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-14.48.33:312][  0]LogInit: FAudioDevice initialized.
+[2018.09.10-14.48.33:313][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.10-14.48.33:383][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Zoran/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.10-14.48.33:390][  0]LogInit: Texture streaming: Enabled
+[2018.09.10-14.48.33:405][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.10-14.48.33:417][  0]LogInit: Transaction tracking system initialized
+[2018.09.10-14.48.33:437][  0]BlueprintLog: New page: Editor Load
+[2018.09.10-14.48.33:510][  0]LocalizationService: Localization service is disabled
+[2018.09.10-14.48.33:749][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.10-14.48.33:749][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.10-14.48.33:749][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.10-14.48.33:749][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.10-14.48.33:749][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.10-14.48.33:749][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.10-14.48.33:749][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.10-14.48.33:864][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/' took 0.01s
+[2018.09.10-14.48.33:864][  0]SourceControl: Source control is disabled
+[2018.09.10-14.48.33:864][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.10-14.48.33:864][  0]LightingResults: New page: Lighting Build
+[2018.09.10-14.48.33:867][  0]MapCheck: New page: Map Check
+[2018.09.10-14.48.33:867][  0]LightingResults: New page: Lighting Build
+[2018.09.10-14.48.34:213][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-14.48.34:220][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.10-14.48.34:244][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.10-14.48.34:306][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61,343ms to complete.
+[2018.09.10-14.48.34:306][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.442
+[2018.09.10-14.48.34:411][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-14.48.34:419][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-14.48.34:427][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-14.48.34:435][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-14.48.34:440][  0]LogCollectionManager: Loaded 0 collections in 0.001469 seconds
+[2018.09.10-14.48.34:484][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Collections/' took 0.01s
+[2018.09.10-14.48.34:484][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/Developers/Zoran/Collections/' took 0.01s
+[2018.09.10-14.48.34:484][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/Collections/' took 0.01s
+[2018.09.10-14.48.34:484][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.10-14.48.34:494][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2574 classes and 606 folders.
+[2018.09.10-14.48.34:500][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.10-14.48.34:544][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.10-14.48.34:548][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.10-14.48.34:562][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.10-14.48.34:564][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.10-14.48.34:569][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.10-14.48.34:647][  0]LogRenderer: Reallocating scene render targets to support 1020x600 Format 10 NumSamples 1 (Frame:1).
+[2018.09.10-14.48.34:701][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.10-14.48.34:826][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.10-14.48.34:826][  0]LogLoad: (Engine Initialization) Total time: 7.91 seconds
+[2018.09.10-14.48.34:826][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.10-14.48.34:837][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.10-14.48.34:857][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.10-14.48.34:887][  1]LogAssetRegistry: Asset discovery search completed in 4.1374 seconds
+[2018.09.10-14.48.34:889][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.10-14.48.34:889][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2018.09.10-14.48.35:857][112]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.10-14.48.37:545][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-14.48.37:661][326]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-14.48.37:679][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.48.37:681][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-14.48.37:702][326]PIE: New page: PIE session: Minimal_Default (10.09.2018. 18.48.37)
+[2018.09.10-14.48.37:702][326]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-14.48.37:708][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006031s)
+[2018.09.10-14.48.37:709][326]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-14.48.37:710][326]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2018.09.10-14.48.37:710][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007609s)
+[2018.09.10-14.48.37:743][326]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-14.48.37:755][326]LogInit: FAudioDevice initialized.
+[2018.09.10-14.48.37:806][326]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-14.48.37:808][326]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-16.48.37
+[2018.09.10-14.48.37:810][326]LogWorld: Bringing up level for play took: 0.001771
+[2018.09.10-14.48.37:859][326]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.10-14.48.37:874][326]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,492
+[2018.09.10-14.48.37:874][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.49.16:552][995]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.10-14.49.18:829][996]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.10-14.49.21:085][997]LogTemp: Error: UDP Connection fail.
+[2018.09.10-14.49.21:085][997]LogTemp: Error: UDP Connection fail.
+[2018.09.10-14.49.21:090][997]LogInit: WinSock: I am zoranrajcic (192.168.1.137:0)
+[2018.09.10-14.49.21:090][997]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-14.49.21:102][997]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-14.49.21:104][997]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-14.49.21:116][997]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-14.49.21:116][997]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-14.49.21:128][997]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-14.49.21:135][998]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-14.49.21:147][998]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-14.49.21:301][ 17]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-14.49.21:313][ 17]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-14.49.22:622][175]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.49.24:618][414]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.49.25:785][554]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.10-14.49.25:860][563]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick Connected
+[2018.09.10-14.49.40:823][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.49.40:825][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-14.49.40:866][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-14.49.40:867][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.49.40:893][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-14.49.40:926][358]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.09.10-14.49.43:904][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.10-14.49.45:391][886]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_BlowStick.BP_BlowStick
+[2018.09.10-14.49.45:849][886]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.10-14.49.46:660][886]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.10-14.49.47:087][887]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.10-14.52.17:245][477]BlueprintLog: New page: Compile BP_BlowStick
+[2018.09.10-14.52.18:155][518]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-14.52.18:203][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.52.18:203][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-14.52.18:203][518]PIE: New page: PIE session: Minimal_Default (10.09.2018. 18.52.18)
+[2018.09.10-14.52.18:203][518]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-14.52.18:206][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002881s)
+[2018.09.10-14.52.18:207][518]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-14.52.18:207][518]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.09.10-14.52.18:207][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003764s)
+[2018.09.10-14.52.18:245][518]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-14.52.18:258][518]LogInit: FAudioDevice initialized.
+[2018.09.10-14.52.18:289][518]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-14.52.18:290][518]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-16.52.18
+[2018.09.10-14.52.18:290][518]LogWorld: Bringing up level for play took: 0.000663
+[2018.09.10-14.52.18:304][518]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,062
+[2018.09.10-14.52.18:304][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.52.20:770][742]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.52.20:771][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-14.52.20:828][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-14.52.20:829][742]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.52.20:858][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-14.52.21:073][743]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.09.10-14.52.23:290][932]LogSlate: Window 'BP_BlowStick*' being destroyed
+[2018.09.10-14.52.24:307][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset" SILENT=true
+[2018.09.10-14.52.24:453][ 51]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick5E3A506E4AA07E2D00467191D20E1D6D.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-14.52.24:454][ 51]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset', retrying in .5s...
+[2018.09.10-14.52.24:954][ 51]LogFileManager: Error: Error deleting file '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'.
+[2018.09.10-14.52.24:954][ 51]LogSavePackage: Error: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-14.52.28:937][ 51]LogSlate: Window 'Message' being destroyed
+[2018.09.10-14.52.28:942][ 51]EditorErrors: New page: Save Output
+[2018.09.10-14.52.28:942][ 51]EditorErrors: Warning: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-14.52.31:682][378]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-14.52.31:685][378]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-14.52.33:112][547]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI_BlowStickStats.UI_BlowStickStats
+[2018.09.10-14.52.45:452][  5]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-14.52.45:476][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.52.45:476][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-14.52.45:476][  5]PIE: New page: PIE session: Minimal_Default (10.09.2018. 18.52.45)
+[2018.09.10-14.52.45:476][  5]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-14.52.45:479][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002756s)
+[2018.09.10-14.52.45:480][  5]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-14.52.45:480][  5]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2018.09.10-14.52.45:480][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003723s)
+[2018.09.10-14.52.45:518][  5]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-14.52.45:530][  5]LogInit: FAudioDevice initialized.
+[2018.09.10-14.52.45:540][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-14.52.45:591][  5]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-14.52.45:593][  5]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-16.52.45
+[2018.09.10-14.52.45:593][  5]LogWorld: Bringing up level for play took: 0.000682
+[2018.09.10-14.52.45:617][  5]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,749
+[2018.09.10-14.52.45:618][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.52.45:638][  5]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.09.10-14.52.50:911][630]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-14.52.50:923][630]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-14.52.59:136][615]Set new viewmode: Unlit
+[2018.09.10-14.53.02:656][ 37]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-14.53.02:668][ 37]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-14.53.05:244][346]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.05:244][346]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.07:243][586]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.07:243][586]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.09:243][826]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.09:243][826]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.11:244][ 66]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.11:244][ 66]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.11:911][146]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.116
+[2018.09.10-14.53.11:911][146]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: 0
+[2018.09.10-14.53.13:238][305]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.13:238][305]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.13:912][386]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.116
+[2018.09.10-14.53.13:912][386]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: 0
+[2018.09.10-14.53.15:239][545]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.15:239][545]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.17:239][785]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.17:239][785]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.19:238][ 25]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.19:238][ 25]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.21:239][265]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.21:239][265]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.23:240][505]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.23:240][505]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.25:240][745]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.25:240][745]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.27:240][985]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.27:240][985]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.29:241][225]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.29:241][225]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.31:242][465]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.31:242][465]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.33:242][705]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.33:242][705]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.35:243][945]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.35:243][945]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.37:242][185]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.37:242][185]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.39:251][426]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.39:251][426]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.41:243][665]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.41:243][665]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.43:241][901]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.43:241][901]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.45:240][141]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.45:240][141]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.47:248][382]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.47:248][382]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.49:240][621]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.49:240][621]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.51:241][861]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.51:241][861]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.53:241][101]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.53:241][101]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.55:242][341]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.55:242][341]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.57:244][581]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.57:244][581]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.53.59:243][821]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.53.59:243][821]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.01:243][ 61]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.01:243][ 61]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.03:243][301]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.03:244][301]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.05:243][541]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.05:244][541]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.07:245][781]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.07:245][781]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.09:239][ 20]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.09:239][ 20]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.11:245][261]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.11:245][261]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.13:247][501]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.13:247][501]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.15:240][740]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.15:240][740]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.17:240][980]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.17:240][980]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.19:239][220]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.19:240][220]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.21:240][460]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.21:240][460]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.23:242][700]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.23:242][700]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.25:242][940]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.25:242][940]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.27:242][180]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick IP Address: 192.168.1.84
+[2018.09.10-14.54.27:242][180]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-14.54.29:393][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.54.29:393][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-14.54.29:411][438]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-14.54.29:474][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-14.54.29:475][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-14.54.29:717][439]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.10-14.55.18:746][225]LogSlate: Took 0.004519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.10-14.58.40:187][256]BlueprintLog: New page: Compile BP_BlowStick
+[2018.09.10-15.01.36:551][771]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_Default_Auto11C2AC5B147BF5D1021C42EB2AD651299.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.09.10-15.01.36:556][771]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.186
+[2018.09.10-15.01.36:556][771]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.186
+[2018.09.10-15.01.36:558][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_BlowStick] ([1] browsable assets)...
+[2018.09.10-15.01.36:558][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_BlowStick]
+[2018.09.10-15.01.36:690][771]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Auto12EEB9A0E472693E27A6910BF43080C88.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/BP_BlowStick_Auto1.uasset'
+[2018.09.10-15.01.36:691][771]LogFileHelpers: Auto-saving content packages took 0.134
+[2018.09.10-15.11.36:586][850]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.031
+[2018.09.10-15.11.36:587][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_BlowStick] ([1] browsable assets)...
+[2018.09.10-15.11.36:587][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_BlowStick]
+[2018.09.10-15.11.36:721][850]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Auto2CD58CBEC421F7585517C258360DA0C49.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/BP_BlowStick_Auto2.uasset'
+[2018.09.10-15.11.36:722][850]LogFileHelpers: Auto-saving content packages took 0.136
+[2018.09.10-15.25.52:257][739]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_Default_Auto346D660A14C8E7EAD12C3AFA636B085BB.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2018.09.10-15.25.52:260][739]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.194
+[2018.09.10-15.25.52:261][739]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.194
+[2018.09.10-15.25.52:262][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_BlowStick] ([1] browsable assets)...
+[2018.09.10-15.25.52:262][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_BlowStick]
+[2018.09.10-15.25.52:398][739]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Auto3DF69021542005536B07A989043DEC391.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/BP_BlowStick_Auto3.uasset'
+[2018.09.10-15.25.52:399][739]LogFileHelpers: Auto-saving content packages took 0.138
+[2018.09.10-15.41.15:515][202]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_Default_Auto44671B48842BC406A842048851B2913CD.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2018.09.10-15.41.15:519][202]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.187
+[2018.09.10-15.41.15:519][202]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.187
+[2018.09.10-15.41.15:520][202]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_BlowStick] ([1] browsable assets)...
+[2018.09.10-15.41.15:520][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_BlowStick]
+[2018.09.10-15.41.15:656][202]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Auto42FCD499C46A480BCC86BADBD11A91C13.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/BP_BlowStick_Auto4.uasset'
+[2018.09.10-15.41.15:657][202]LogFileHelpers: Auto-saving content packages took 0.137
+[2018.09.10-15.44.17:734][242]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-15.44.17:796][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-15.44.17:796][242]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.10-15.44.17:842][242]LogPlayLevel: [PlayLevel] Compiling BP_BlowStick before play...
+[2018.09.10-15.44.18:030][242]LogPlayLevel: [PlayLevel] Compiling UI_BlowStickStats before play...
+[2018.09.10-15.44.18:467][242]LogPlayLevel: PlayLevel: Blueprint regeneration took 671 ms (2 blueprints)
+[2018.09.10-15.44.18:467][242]PIE: New page: PIE session: Minimal_Default (10.09.2018. 19.44.18)
+[2018.09.10-15.44.18:467][242]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-15.44.18:470][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003139s)
+[2018.09.10-15.44.18:471][242]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-15.44.18:471][242]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2018.09.10-15.44.18:471][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004061s)
+[2018.09.10-15.44.18:509][242]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-15.44.18:524][242]LogInit: FAudioDevice initialized.
+[2018.09.10-15.44.18:532][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-15.44.18:567][242]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-15.44.18:568][242]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-17.44.18
+[2018.09.10-15.44.18:569][242]LogWorld: Bringing up level for play took: 0.000745
+[2018.09.10-15.44.18:584][242]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,217
+[2018.09.10-15.44.18:584][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-15.44.22:879][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-15.44.22:879][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-15.44.22:896][576]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-15.44.22:928][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-15.44.22:929][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-15.44.22:987][578]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.09.10-15.44.37:415][875]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_DefaultBD5983744481AE437650E89CF7C058C5.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.10-15.44.37:415][875]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap', retrying in .5s...
+[2018.09.10-15.44.37:916][875]LogFileManager: Error: Error deleting file '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'.
+[2018.09.10-15.44.37:916][875]LogSavePackage: Error: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.10-15.44.37:943][875]EditorErrors: New page: Save Output
+[2018.09.10-15.44.37:944][875]EditorErrors: Warning: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.10-15.44.37:968][875]LogFileHelpers: Saving map 'Minimal_Default' took 0.804
+[2018.09.10-15.44.49:843][875]LogSlate: Window 'Message' being destroyed
+[2018.09.10-15.44.49:848][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset" SILENT=true
+[2018.09.10-15.44.49:983][875]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick6BA30FD9468977FCD3CD78978145FFF8.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-15.44.49:983][875]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset', retrying in .5s...
+[2018.09.10-15.44.50:484][875]LogFileManager: Error: Error deleting file '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'.
+[2018.09.10-15.44.50:484][875]LogSavePackage: Error: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-15.44.52:537][875]LogSlate: Window 'Message' being destroyed
+[2018.09.10-15.44.52:543][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_BlowStickStats" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/UI_BlowStickStats.uasset" SILENT=true
+[2018.09.10-15.44.52:574][875]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/UI_BlowStickStats3DB28A884B598681813F58AF8152FB6B.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/UI_BlowStickStats.uasset'
+[2018.09.10-15.44.52:574][875]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/UI_BlowStickStats.uasset', retrying in .5s...
+[2018.09.10-15.44.53:076][875]LogFileManager: Error: Error deleting file '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/UI_BlowStickStats.uasset'.
+[2018.09.10-15.44.53:076][875]LogSavePackage: Error: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/UI_BlowStickStats.uasset'
+[2018.09.10-15.44.54:087][875]LogSlate: Window 'Message' being destroyed
+[2018.09.10-15.44.54:091][875]EditorErrors: New page: Save Output
+[2018.09.10-15.44.54:091][875]EditorErrors: Warning: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-15.44.54:091][875]EditorErrors: Warning: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/UI_BlowStickStats.uasset'
+[2018.09.10-15.44.55:260][875]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2018.09.10-15.44.58:782][197]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-15.44.58:786][197]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-15.51.04:260][765]LogEditorTransaction: Undo Rename Variable
+[2018.09.10-15.55.36:790][ 95]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_Default_Auto51C1D5EBF43891882C640E290AA212302.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2018.09.10-15.55.36:794][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.206
+[2018.09.10-15.55.36:794][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.206
+[2018.09.10-15.55.36:795][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_BlowStick] ([1] browsable assets)...
+[2018.09.10-15.55.36:795][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_BlowStick]
+[2018.09.10-15.55.36:939][ 95]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Auto58D069E02472A03E794C4208916E6B3E8.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/BP_BlowStick_Auto5.uasset'
+[2018.09.10-15.55.36:940][ 95]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI_BlowStickStats] ([1] browsable assets)...
+[2018.09.10-15.55.36:941][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_BlowStickStats]
+[2018.09.10-15.55.36:970][ 95]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/UI_BlowStickStats_Auto5294F49BC4D1FCFDAB625A4B575C17EF1.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/UI_BlowStickStats_Auto5.uasset'
+[2018.09.10-15.55.36:971][ 95]LogFileHelpers: Auto-saving content packages took 0.177
+[2018.09.10-15.56.20:050][648]BlueprintLog: New page: Compile BP_BlowStick
+[2018.09.10-15.56.20:989][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset" SILENT=true
+[2018.09.10-15.56.21:126][700]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick8345EF1F4979ACDF2F7AC8BA6443A9CB.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-15.56.21:127][700]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset', retrying in .5s...
+[2018.09.10-15.56.21:628][700]LogFileManager: Error: Error deleting file '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'.
+[2018.09.10-15.56.21:628][700]LogSavePackage: Error: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-15.56.38:412][700]LogSlate: Window 'Message' being destroyed
+[2018.09.10-15.56.38:418][700]EditorErrors: New page: Save Output
+[2018.09.10-15.56.38:418][700]EditorErrors: Warning: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-15.56.39:460][700]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2018.09.10-15.56.41:673][962]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-15.56.41:676][962]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-15.56.48:045][401]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_DefaultA1F3EA274D05D91FFA31A4A3AE4C37B3.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.10-15.56.48:045][401]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap', retrying in .5s...
+[2018.09.10-15.56.48:546][401]LogFileManager: Error: Error deleting file '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'.
+[2018.09.10-15.56.48:546][401]LogSavePackage: Error: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.10-15.56.48:571][401]EditorErrors: New page: Save Output
+[2018.09.10-15.56.48:571][401]EditorErrors: Warning: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.10-15.56.48:608][401]LogFileHelpers: Saving map 'Minimal_Default' took 0.808
+[2018.09.10-15.57.52:777][401]LogSlate: Window 'Message' being destroyed
+[2018.09.10-15.57.55:169][687]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-15.57.55:171][687]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-15.58.08:665][670]LogSlate: Window 'Save Content' being destroyed
+[2018.09.10-15.58.08:684][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset" SILENT=true
+[2018.09.10-15.58.08:824][670]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick9D94EB8C4D311CB08ACC268D00AC3EA8.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-15.58.08:824][670]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset', retrying in .5s...
+[2018.09.10-15.58.09:325][670]LogFileManager: Error: Error deleting file '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'.
+[2018.09.10-15.58.09:325][670]LogSavePackage: Error: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-15.58.14:570][670]LogSlate: Window 'Message' being destroyed
+[2018.09.10-15.58.14:574][670]EditorErrors: New page: Save Output
+[2018.09.10-15.58.14:574][670]EditorErrors: Warning: Error saving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-15.58.16:136][855]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-15.58.16:138][855]LogSlate: Window 'Message Log' being destroyed
+[2018.09.10-15.58.54:148][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset" SILENT=true
+[2018.09.10-15.58.54:281][193]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick495D6923482AE63F174AE3A09EA307B1.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-15.58.54:289][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_BlowStickStats" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/UI_BlowStickStats.uasset" SILENT=true
+[2018.09.10-15.58.54:311][193]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/UI_BlowStickStatsA811323A4A697D578F23039E504D61E1.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/UI_BlowStickStats.uasset'
+[2018.09.10-16.05.36:869][527]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.032
+[2018.09.10-16.05.36:870][527]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_BlowStick] ([1] browsable assets)...
+[2018.09.10-16.05.36:870][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_BlowStick]
+[2018.09.10-16.05.37:015][527]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Auto6BE9186604794E1AC1AD6B485E1022C95.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/BP_BlowStick_Auto6.uasset'
+[2018.09.10-16.05.37:016][527]LogFileHelpers: Auto-saving content packages took 0.147
+[2018.09.10-16.33.15:522][486]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-16.33.15:588][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.33.15:588][486]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.10-16.33.15:592][486]LogPlayLevel: [PlayLevel] Compiling UI_BlowStickStats before play...
+[2018.09.10-16.33.15:753][486]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (1 blueprints)
+[2018.09.10-16.33.15:753][486]PIE: New page: PIE session: Minimal_Default (10.09.2018. 20.33.15)
+[2018.09.10-16.33.15:753][486]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-16.33.15:756][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002910s)
+[2018.09.10-16.33.15:756][486]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-16.33.15:757][486]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.09.10-16.33.15:757][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003909s)
+[2018.09.10-16.33.15:796][486]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-16.33.15:808][486]LogInit: FAudioDevice initialized.
+[2018.09.10-16.33.15:818][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.33.15:855][486]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-16.33.15:856][486]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-18.33.15
+[2018.09.10-16.33.15:857][486]LogWorld: Bringing up level for play took: 0.000821
+[2018.09.10-16.33.15:873][486]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,494
+[2018.09.10-16.33.15:873][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.33.20:236][927]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.33.20:248][927]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-16.33.21:217][ 31]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.33.22:603][179]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.33.22:603][179]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.10-16.33.23:217][244]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.33.24:590][387]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.33.24:590][387]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.10-16.33.25:219][454]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.33.25:219][454]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.10-16.33.27:482][455]LogTemp: Error: UDP Connection fail.
+[2018.09.10-16.33.34:046][161]LogBlueprintUserMessages: [BP_BlowStick_2] Zerro Calibration Started
+[2018.09.10-16.33.36:307][162]LogTemp: Error: UDP Connection fail.
+[2018.09.10-16.33.36:313][162]LogBlueprintUserMessages: [BP_BlowStick_2] Zerro Calibration Started
+[2018.09.10-16.33.38:575][163]LogTemp: Error: UDP Connection fail.
+[2018.09.10-16.33.43:198][657]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.33.43:209][657]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.10-16.33.45:505][902]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.10-16.33.47:769][903]LogTemp: Error: UDP Connection fail.
+[2018.09.10-16.33.47:848][911]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.10-16.33.50:108][912]LogTemp: Error: UDP Connection fail.
+[2018.09.10-16.33.53:178][242]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.10-16.33.55:439][243]LogTemp: Error: UDP Connection fail.
+[2018.09.10-16.33.57:885][502]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.10-16.34.00:148][503]LogTemp: Error: UDP Connection fail.
+[2018.09.10-16.34.12:149][797]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.34.12:149][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.34.12:165][797]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-16.34.12:229][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-16.34.12:229][797]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.34.12:451][798]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.09.10-16.34.13:446][916]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-16.34.13:470][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.34.13:470][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-16.34.13:470][916]PIE: New page: PIE session: Minimal_Default (10.09.2018. 20.34.13)
+[2018.09.10-16.34.13:470][916]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-16.34.13:473][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002768s)
+[2018.09.10-16.34.13:474][916]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-16.34.13:474][916]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.09.10-16.34.13:474][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003771s)
+[2018.09.10-16.34.13:512][916]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-16.34.13:524][916]LogInit: FAudioDevice initialized.
+[2018.09.10-16.34.13:533][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.34.13:586][916]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-16.34.13:587][916]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-18.34.13
+[2018.09.10-16.34.13:587][916]LogWorld: Bringing up level for play took: 0.000647
+[2018.09.10-16.34.13:612][916]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,754
+[2018.09.10-16.34.13:613][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.34.19:593][551]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.34.19:605][551]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-16.34.20:574][655]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.34.22:574][870]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.34.23:086][925]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.34.23:087][925]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.10-16.34.24:575][ 84]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.34.25:081][138]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.34.25:081][138]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.10-16.34.26:578][298]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.34.27:079][348]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.34.27:079][348]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.10-16.34.27:285][370]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.10-16.34.27:322][374]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick Connected
+[2018.09.10-16.34.41:939][950]LogBlueprintUserMessages: [BP_BlowStick_2] Zerro Calibration Started
+[2018.09.10-16.34.43:115][ 76]LogBlueprintUserMessages: [BP_BlowStick_2] Zero Calibration Finished
+[2018.09.10-16.34.45:729][357]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.10-16.34.45:850][370]LogBlueprintUserMessages: [BP_BlowStick_2] Data Started.
+[2018.09.10-16.34.47:648][563]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.34.47:660][563]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.10-16.34.52:976][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.34.52:977][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.34.52:993][125]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-16.34.53:061][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-16.34.53:061][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.34.53:283][126]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.10-16.35.26:234][ 46]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-16.35.26:258][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.35.26:258][ 46]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.10-16.35.26:303][ 46]LogPlayLevel: [PlayLevel] Compiling BP_BlowStick before play...
+[2018.09.10-16.35.26:546][ 46]LogPlayLevel: PlayLevel: Blueprint regeneration took 289 ms (1 blueprints)
+[2018.09.10-16.35.26:546][ 46]PIE: New page: PIE session: Minimal_Default (10.09.2018. 20.35.26)
+[2018.09.10-16.35.26:546][ 46]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-16.35.26:549][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003107s)
+[2018.09.10-16.35.26:550][ 46]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-16.35.26:550][ 46]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2018.09.10-16.35.26:550][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004146s)
+[2018.09.10-16.35.26:588][ 46]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-16.35.26:599][ 46]LogInit: FAudioDevice initialized.
+[2018.09.10-16.35.26:608][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.35.26:646][ 46]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-16.35.26:647][ 46]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-18.35.26
+[2018.09.10-16.35.26:647][ 46]LogWorld: Bringing up level for play took: 0.000723
+[2018.09.10-16.35.26:662][ 46]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,296
+[2018.09.10-16.35.26:663][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.35.29:499][310]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.35.29:510][310]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-16.35.30:095][370]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: 0
+[2018.09.10-16.35.30:652][427]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.35.30:652][427]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: CrveniBlowStick
+[2018.09.10-16.35.31:210][484]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.35.32:087][573]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: 0
+[2018.09.10-16.35.32:646][630]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.35.32:646][630]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: CrveniBlowStick
+[2018.09.10-16.35.33:031][669]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.10-16.35.33:060][672]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick Connected
+[2018.09.10-16.35.44:296][830]LogBlueprintUserMessages: [BP_BlowStick_2] Zerro Calibration Started
+[2018.09.10-16.35.45:380][941]LogBlueprintUserMessages: [BP_BlowStick_2] Zero Calibration Finished
+[2018.09.10-16.35.47:456][154]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.10-16.35.47:503][159]LogBlueprintUserMessages: [BP_BlowStick_2] Data Started.
+[2018.09.10-16.35.49:985][412]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.35.49:997][412]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.10-16.35.59:111][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.35.59:111][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.35.59:128][337]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-16.35.59:159][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-16.35.59:160][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.35.59:231][338]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.09.10-16.36.27:600][602]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_Default_Auto73649CDB04B2CF3D8814A898CB3DAD240.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2018.09.10-16.36.27:604][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.201
+[2018.09.10-16.36.27:604][602]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.201
+[2018.09.10-16.36.27:606][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_BlowStick] ([1] browsable assets)...
+[2018.09.10-16.36.27:606][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_BlowStick]
+[2018.09.10-16.36.27:747][602]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Auto7FC283985467791DA59D83980EB7CB36C.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/BP_BlowStick_Auto7.uasset'
+[2018.09.10-16.36.27:748][602]LogFileHelpers: Auto-saving content packages took 0.143
+[2018.09.10-16.42.25:856][949]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-16.42.25:920][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.42.25:920][949]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.10-16.42.25:968][949]LogPlayLevel: [PlayLevel] Compiling BP_BlowStick before play...
+[2018.09.10-16.42.26:182][949]LogPlayLevel: PlayLevel: Blueprint regeneration took 262 ms (1 blueprints)
+[2018.09.10-16.42.26:182][949]PIE: New page: PIE session: Minimal_Default (10.09.2018. 20.42.26)
+[2018.09.10-16.42.26:182][949]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-16.42.26:185][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002898s)
+[2018.09.10-16.42.26:186][949]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-16.42.26:186][949]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2018.09.10-16.42.26:186][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003965s)
+[2018.09.10-16.42.26:225][949]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-16.42.26:237][949]LogInit: FAudioDevice initialized.
+[2018.09.10-16.42.26:247][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.42.26:287][949]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-16.42.26:289][949]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-18.42.26
+[2018.09.10-16.42.26:289][949]LogWorld: Bringing up level for play took: 0.000735
+[2018.09.10-16.42.26:304][949]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,062
+[2018.09.10-16.42.26:305][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.42.29:666][317]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.42.29:678][317]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-16.42.30:754][446]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.42.31:211][501]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.42.31:211][501]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.10-16.42.32:754][685]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.42.33:213][740]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.42.33:213][740]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.10-16.42.34:758][925]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.42.35:209][979]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.42.35:209][979]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.10-16.42.36:760][165]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.42.37:212][219]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.42.37:212][219]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.10-16.42.37:405][242]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.10-16.42.37:521][256]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick Connected
+[2018.09.10-16.42.46:168][292]LogBlueprintUserMessages: [BP_BlowStick_2] Zerro Calibration Started
+[2018.09.10-16.42.47:268][424]LogBlueprintUserMessages: [BP_BlowStick_2] Zero Calibration Finished
+[2018.09.10-16.42.50:356][794]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.10-16.42.50:415][801]LogBlueprintUserMessages: [BP_BlowStick_2] Data Started.
+[2018.09.10-16.42.54:078][240]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.42.54:089][240]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.10-16.42.58:615][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.42.58:616][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.42.58:633][782]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-16.42.58:669][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-16.42.58:670][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.42.58:741][783]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.10-16.43.02:694][257]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-16.43.02:755][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.43.02:755][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-16.43.02:755][257]PIE: New page: PIE session: Minimal_Default (10.09.2018. 20.43.02)
+[2018.09.10-16.43.02:755][257]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-16.43.02:758][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002711s)
+[2018.09.10-16.43.02:759][257]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-16.43.02:759][257]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2018.09.10-16.43.02:759][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003601s)
+[2018.09.10-16.43.02:797][257]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-16.43.02:808][257]LogInit: FAudioDevice initialized.
+[2018.09.10-16.43.02:818][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.43.02:855][257]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-16.43.02:856][257]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-18.43.02
+[2018.09.10-16.43.02:857][257]LogWorld: Bringing up level for play took: 0.000669
+[2018.09.10-16.43.02:871][257]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,504
+[2018.09.10-16.43.02:871][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.43.09:200][975]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.43.09:212][975]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-16.43.10:758][159]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.43.10:993][187]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.43.10:993][187]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.10-16.43.12:758][396]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.43.12:994][424]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.43.12:994][424]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: BeliBlowStick
+[2018.09.10-16.43.14:038][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.43.14:039][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.43.14:055][547]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-16.43.14:120][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-16.43.14:120][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.43.14:348][548]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.10-16.43.26:186][966]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-16.43.26:211][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.43.26:211][966]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.10-16.43.26:256][966]LogPlayLevel: [PlayLevel] Compiling BP_BlowStick before play...
+[2018.09.10-16.43.26:499][966]LogPlayLevel: PlayLevel: Blueprint regeneration took 288 ms (1 blueprints)
+[2018.09.10-16.43.26:499][966]PIE: New page: PIE session: Minimal_Default (10.09.2018. 20.43.26)
+[2018.09.10-16.43.26:499][966]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-16.43.26:502][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003101s)
+[2018.09.10-16.43.26:503][966]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-16.43.26:503][966]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2018.09.10-16.43.26:503][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004141s)
+[2018.09.10-16.43.26:540][966]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-16.43.26:552][966]LogInit: FAudioDevice initialized.
+[2018.09.10-16.43.26:561][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.43.26:597][966]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-16.43.26:598][966]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-18.43.26
+[2018.09.10-16.43.26:598][966]LogWorld: Bringing up level for play took: 0.000694
+[2018.09.10-16.43.26:613][966]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,247
+[2018.09.10-16.43.26:613][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.43.43:408][944]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.43.43:420][944]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-16.43.44:756][104]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.43.44:756][104]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: CrveniBlowStick
+[2018.09.10-16.43.44:991][132]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.43.46:759][340]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.43.46:759][340]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: CrveniBlowStick
+[2018.09.10-16.43.46:991][368]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.43.48:762][580]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.43.48:762][580]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: CrveniBlowStick
+[2018.09.10-16.43.48:996][608]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.43.49:589][679]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.10-16.43.51:849][680]LogTemp: Error: UDP Connection fail.
+[2018.09.10-16.43.53:893][924]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.10-16.43.56:153][925]LogTemp: Error: UDP Connection fail.
+[2018.09.10-16.43.56:160][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.43.56:161][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.43.56:177][925]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-16.43.56:208][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-16.43.56:209][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.43.56:278][926]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.10-16.44.04:414][902]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-16.44.04:474][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.44.04:474][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.10-16.44.04:474][902]PIE: New page: PIE session: Minimal_Default (10.09.2018. 20.44.04)
+[2018.09.10-16.44.04:474][902]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-16.44.04:477][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003112s)
+[2018.09.10-16.44.04:478][902]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-16.44.04:478][902]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2018.09.10-16.44.04:478][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004041s)
+[2018.09.10-16.44.04:516][902]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-16.44.04:528][902]LogInit: FAudioDevice initialized.
+[2018.09.10-16.44.04:536][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.44.04:575][902]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-16.44.04:576][902]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-18.44.04
+[2018.09.10-16.44.04:576][902]LogWorld: Bringing up level for play took: 0.000642
+[2018.09.10-16.44.04:591][902]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,224
+[2018.09.10-16.44.04:591][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.44.06:805][133]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.44.06:817][133]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-16.44.06:994][154]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.44.08:762][363]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.44.08:762][363]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: CrveniBlowStick
+[2018.09.10-16.44.08:991][390]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.44.10:762][599]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.44.10:762][599]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: CrveniBlowStick
+[2018.09.10-16.44.10:992][626]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.44.12:759][835]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.44.12:759][835]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: CrveniBlowStick
+[2018.09.10-16.44.12:802][840]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.10-16.44.12:810][841]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick Connected
+[2018.09.10-16.44.15:636][175]LogBlueprintUserMessages: [BP_BlowStick_2] Zerro Calibration Started
+[2018.09.10-16.44.16:776][310]LogBlueprintUserMessages: [BP_BlowStick_2] Zero Calibration Finished
+[2018.09.10-16.44.17:664][415]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.10-16.44.17:772][428]LogBlueprintUserMessages: [BP_BlowStick_2] Data Started.
+[2018.09.10-16.44.19:474][629]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.44.19:485][629]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.10-16.44.29:271][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.44.29:271][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.44.29:288][777]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-16.44.29:359][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-16.44.29:359][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.44.29:601][778]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.09.10-16.47.44:933][609]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.10-16.47.44:963][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.47.44:963][609]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.10-16.47.45:010][609]LogPlayLevel: [PlayLevel] Compiling BP_BlowStick before play...
+[2018.09.10-16.47.45:260][609]LogPlayLevel: PlayLevel: Blueprint regeneration took 297 ms (1 blueprints)
+[2018.09.10-16.47.45:260][609]PIE: New page: PIE session: Minimal_Default (10.09.2018. 20.47.45)
+[2018.09.10-16.47.45:260][609]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.10-16.47.45:263][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002952s)
+[2018.09.10-16.47.45:264][609]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.10-16.47.45:264][609]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2018.09.10-16.47.45:264][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004107s)
+[2018.09.10-16.47.45:302][609]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.10-16.47.45:314][609]LogInit: FAudioDevice initialized.
+[2018.09.10-16.47.45:323][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.47.45:362][609]LogLoad: Game class is 'GameModeBase'
+[2018.09.10-16.47.45:363][609]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.10-18.47.45
+[2018.09.10-16.47.45:364][609]LogWorld: Bringing up level for play took: 0.000718
+[2018.09.10-16.47.45:379][609]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,013
+[2018.09.10-16.47.45:380][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.47.55:141][225]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.47.55:153][225]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51234
+[2018.09.10-16.47.55:459][245]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.47.55:459][245]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.47.57:001][344]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.47.57:454][373]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.47.57:454][373]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.47.59:097][479]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.47.59:453][502]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.47.59:453][502]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.48.01:007][602]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.48.01:456][631]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.48.01:457][631]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.48.03:007][731]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.48.03:460][760]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.48.03:460][760]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.48.04:995][859]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.48.05:459][889]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.48.05:459][889]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.48.07:010][989]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.48.07:460][ 18]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.48.07:460][ 18]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.48.09:006][118]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.48.09:456][147]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.48.09:456][147]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.48.11:006][245]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.48.11:456][274]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.48.11:456][274]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.48.12:651][351]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.48.13:007][374]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.48.13:458][403]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.48.13:458][403]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.48.14:607][477]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: CrveniBlowStick
+[2018.09.10-16.48.14:996][502]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.48.15:449][531]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.48.15:450][531]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.48.17:005][631]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: BeliBlowStick
+[2018.09.10-16.48.17:455][660]LogBlueprintUserMessages: [BP_BlowStick_2] Host Name: PlaviBlowStick
+[2018.09.10-16.48.17:455][660]LogBlueprintUserMessages: [BP_BlowStick_2] DesiredHostFound: PlaviBlowStick
+[2018.09.10-16.48.18:291][714]LogBlueprintUserMessages: [BP_BlowStick_2] Connecting to BlowStick...
+[2018.09.10-16.48.18:367][719]LogBlueprintUserMessages: [BP_BlowStick_2] BlowStick Connected
+[2018.09.10-16.48.23:949][ 81]LogBlueprintUserMessages: [BP_BlowStick_2] Starting RPYB Data on Server...
+[2018.09.10-16.48.23:994][ 84]LogBlueprintUserMessages: [BP_BlowStick_2] Data Started.
+[2018.09.10-16.48.26:624][254]LogBlueprintUserMessages: [BP_BlowStick_2] 192.168.1.137
+[2018.09.10-16.48.26:636][254]LogBlueprintUserMessages: [BP_BlowStick_2] UDP Receiver Started on port 51237
+[2018.09.10-16.48.42:641][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.48.42:641][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.10-16.48.42:657][274]LogSlate: Window 'BlowStickTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.10-16.48.42:690][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.10-16.48.42:691][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.10-16.48.42:767][275]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.10-16.49.07:451][249]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_Default_Auto86B841799453238F97E51AD8C23908B89.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap'
+[2018.09.10-16.49.07:457][249]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.185
+[2018.09.10-16.49.07:457][249]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2018.09.10-16.49.07:459][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_BlowStick] ([1] browsable assets)...
+[2018.09.10-16.49.07:459][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_BlowStick]
+[2018.09.10-16.49.07:598][249]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick_Auto80F8A297C4949EA29F321C48D9E3D9AB5.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Autosaves/Game/BP_BlowStick_Auto8.uasset'
+[2018.09.10-16.49.07:600][249]LogFileHelpers: Auto-saving content packages took 0.141
+[2018.09.10-17.05.24:003][495]LogSlate: Window 'Save Content' being destroyed
+[2018.09.10-17.05.24:019][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BlowStick" FILE="../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset" SILENT=true
+[2018.09.10-17.05.24:163][495]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/BP_BlowStick695A5B474FEBE850480BD6B54FD773B2.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/BP_BlowStick.uasset'
+[2018.09.10-17.05.24:421][495]LogSavePackage: Moving '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Saved/Minimal_DefaultFE6FC0A1472C373440C3908215178209.tmp' to '../../../../../../Users/Zoran/Documents/Unreal Projects/blowstick_template_unreal/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.10-17.05.24:452][495]LogFileHelpers: Saving map 'Minimal_Default' took 0.282
+[2018.09.10-17.05.24:669][495]LogSlate: Window 'BlowStickTemplate - Unreal Editor' being destroyed
+[2018.09.10-17.05.24:842][496]Cmd: QUIT_EDITOR
+[2018.09.10-17.05.25:275][496]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.10-17.05.25:295][496]LogExit: Preparing to exit.
+[2018.09.10-17.05.25:659][496]LogExit: Editor shut down
+[2018.09.10-17.05.25:660][496]LogExit: Transaction tracking system shut down
+[2018.09.10-17.05.26:321][496]LogExit: Object subsystem successfully closed.
+[2018.09.10-17.05.26:344][496]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.10-17.05.26:347][496]LogD3D11RHI: Shutdown
+[2018.09.10-17.05.26:347][496]LogD3D11RHI: CleanupD3DDevice
+[2018.09.10-17.05.26:350][496]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.10-17.05.26:368][496]LogModuleManager: Shutting down and abandoning module SequencerWidgets (620)
+[2018.09.10-17.05.26:368][496]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2018.09.10-17.05.26:368][496]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.09.10-17.05.26:368][496]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.09.10-17.05.26:368][496]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.09.10-17.05.26:368][496]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.09.10-17.05.26:368][496]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2018.09.10-17.05.26:369][496]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2018.09.10-17.05.26:370][496]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.09.10-17.05.26:770][496]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.09.10-17.05.26:771][496]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.09.10-17.05.26:771][496]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.09.10-17.05.26:771][496]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.09.10-17.05.26:771][496]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.09.10-17.05.26:771][496]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.09.10-17.05.26:771][496]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.09.10-17.05.26:771][496]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.09.10-17.05.26:837][496]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.09.10-17.05.26:837][496]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.09.10-17.05.26:837][496]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.09.10-17.05.26:837][496]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.09.10-17.05.26:837][496]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.09.10-17.05.26:837][496]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.09.10-17.05.26:837][496]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.09.10-17.05.26:838][496]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.09.10-17.05.26:838][496]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.09.10-17.05.26:838][496]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.09.10-17.05.26:847][496]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.09.10-17.05.26:848][496]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.09.10-17.05.26:849][496]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.09.10-17.05.26:849][496]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.09.10-17.05.26:849][496]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.09.10-17.05.26:849][496]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.09.10-17.05.26:849][496]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.09.10-17.05.27:069][496]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.09.10-17.05.27:069][496]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.09.10-17.05.27:069][496]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.09.10-17.05.27:069][496]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.09.10-17.05.27:069][496]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.09.10-17.05.27:069][496]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.09.10-17.05.27:069][496]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.09.10-17.05.27:069][496]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.09.10-17.05.27:069][496]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.09.10-17.05.27:070][496]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.09.10-17.05.27:070][496]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.09.10-17.05.27:070][496]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.09.10-17.05.27:070][496]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.09.10-17.05.27:070][496]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.09.10-17.05.27:070][496]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.09.10-17.05.27:070][496]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.09.10-17.05.27:070][496]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.09.10-17.05.27:070][496]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.09.10-17.05.27:078][496]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.09.10-17.05.27:078][496]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.09.10-17.05.27:078][496]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.09.10-17.05.27:078][496]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.09.10-17.05.27:078][496]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.09.10-17.05.27:078][496]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.09.10-17.05.27:078][496]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.09.10-17.05.27:078][496]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.09.10-17.05.27:079][496]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.09.10-17.05.27:079][496]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.09.10-17.05.27:079][496]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.09.10-17.05.27:079][496]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.09.10-17.05.27:079][496]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.09.10-17.05.27:079][496]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.09.10-17.05.27:079][496]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.09.10-17.05.27:079][496]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.09.10-17.05.27:079][496]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.09.10-17.05.27:080][496]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.09.10-17.05.27:080][496]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.09.10-17.05.27:080][496]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.09.10-17.05.27:080][496]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.09.10-17.05.27:080][496]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.09.10-17.05.27:080][496]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.09.10-17.05.27:080][496]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.09.10-17.05.27:080][496]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.09.10-17.05.27:080][496]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module OculusEditor (294)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (290)
+[2018.09.10-17.05.27:081][496]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (288)
+[2018.09.10-17.05.27:082][496]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2018.09.10-17.05.27:082][496]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2018.09.10-17.05.27:182][496]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2018.09.10-17.05.27:283][496]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (280)
+[2018.09.10-17.05.27:283][496]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2018.09.10-17.05.27:283][496]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2018.09.10-17.05.27:283][496]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2018.09.10-17.05.27:283][496]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2018.09.10-17.05.27:283][496]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2018.09.10-17.05.27:283][496]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.09.10-17.05.27:285][496]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.09.10-17.05.27:285][496]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2018.09.10-17.05.27:285][496]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2018.09.10-17.05.27:286][496]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2018.09.10-17.05.27:287][496]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2018.09.10-17.05.27:289][496]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2018.09.10-17.05.27:289][496]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2018.09.10-17.05.27:289][496]LogModuleManager: Shutting down and abandoning module AISupportModule (252)
+[2018.09.10-17.05.27:289][496]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2018.09.10-17.05.27:289][496]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2018.09.10-17.05.27:290][496]LogModuleManager: Shutting down and abandoning module WmfMedia (246)
+[2018.09.10-17.05.27:293][496]LogModuleManager: Shutting down and abandoning module Media (245)
+[2018.09.10-17.05.27:300][496]LogModuleManager: Shutting down and abandoning module SocketClient (242)
+[2018.09.10-17.05.27:300][496]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.10-17.05.27:300][496]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.10-17.05.27:300][496]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.10-17.05.27:300][496]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.10-17.05.27:300][496]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.10-17.05.27:300][496]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.10-17.05.27:300][496]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.10-17.05.27:300][496]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.10-17.05.27:300][496]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.10-17.05.27:301][496]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.09.10-17.05.27:301][496]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.09.10-17.05.27:301][496]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.09.10-17.05.27:301][496]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.09.10-17.05.27:301][496]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.09.10-17.05.27:301][496]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.09.10-17.05.27:301][496]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.09.10-17.05.27:301][496]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.09.10-17.05.27:301][496]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.09.10-17.05.27:301][496]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.09.10-17.05.27:301][496]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.09.10-17.05.27:306][496]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.09.10-17.05.27:306][496]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.09.10-17.05.27:306][496]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.09.10-17.05.27:306][496]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.09.10-17.05.27:306][496]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.09.10-17.05.27:307][496]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.09.10-17.05.27:392][496]LogDerivedDataCache: Shutdown
+[2018.09.10-17.05.27:392][496]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.09.10-17.05.27:392][496]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.09.10-17.05.27:393][496]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.09.10-17.05.27:395][496]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.09.10-17.05.27:395][496]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.09.10-17.05.27:395][496]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.09.10-17.05.27:395][496]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.10-17.05.27:406][496]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.10-17.05.27:407][496]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.10-17.05.27:407][496]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.10-17.05.27:438][496]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.10-17.05.27:438][496]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.10-17.05.27:438][496]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B346F6A97-46DD-11BA-A989-E3B6439730B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=98cd2c2e405b3505c944848ca4b8d6b9%7C818f5f51634c40e691edcbfd2e1a0455%7C889ac455-abf2-470e-8222-e1d89793a521&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.10-17.05.27:442][496]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.10-17.05.27:444][496]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.10-17.05.27:444][496]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.10-17.05.27:445][496]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.10-17.05.27:445][496]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.10-17.05.27:445][496]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.10-17.05.27:446][496]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.10-17.05.27:446][496]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.10-17.05.27:446][496]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.10-17.05.27:446][496]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.10-17.05.27:446][496]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.10-17.05.27:446][496]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.10-17.05.27:446][496]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.10-17.05.27:446][496]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.10-17.05.27:446][496]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.10-17.05.27:446][496]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.10-17.05.27:446][496]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.10-17.05.28:044][496]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.598 s
+[2018.09.10-17.05.28:044][496]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.10-17.05.28:044][496]LogOutputDevice: Error: 
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:D:\RocketSync\4.20.0-4212847+++UE4+Release-4.20\Working\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1058]
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: Unable to bind delegate to 'socketClientConnectionEventDelegate' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: Stack: 
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa02171e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9ff50c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9ff6b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c453fca UE4Editor-SocketClient.dll!TBaseDynamicDelegate<FWeakObjectPtr,void,bool,FString>::__Internal_BindDynamic<USocketClientBPLibrary>() [d:\rocketsync\4.20.0-4212847+++ue4+release-4.20\working\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:1058]
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c454e3b UE4Editor-SocketClient.dll!USocketClientBPLibrary::USocketClientBPLibrary() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclientbplibrary.cpp:17]
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa0b12e1a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c453242 UE4Editor-SocketClient.dll!NewObject<USocketClientBPLibrary>() [d:\rocketsync\4.20.0-4212847+++ue4+release-4.20\working\engine\source\runtime\coreuobject\public\uobject\uobjectglobals.h:1162]
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c461304 UE4Editor-SocketClient.dll!USocketClientHandler::getSocketClientTarget() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclienthandler.cpp:17]
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c455f90 UE4Editor-SocketClient.dll!<lambda_2cf0b6947aac3c61518627cb097f1265>::operator()() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclientbplibrary.cpp:149]
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fdc6347 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fdd1f92 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fdd2456 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fde6d25 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fde6710 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa00b0e7e UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa00ef523 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c475208 UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c475b71 UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c475bba UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c483dac UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c485aaa UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffaf53d3034 KERNEL32.DLL!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: [Callstack] 0x00007ffaf5e71431 ntdll.dll!UnknownFunction []
+[2018.09.10-17.05.28:045][496]LogOutputDevice: Error: 
+[2018.09.10-17.05.28:056][496]LogStats:                SubmitErrorReport -  0.000 s
+[2018.09.10-17.05.28:645][496]LogStats:                    SendNewReport -  0.589 s
+[2018.09.10-17.05.28:645][496]LogStats:             FDebug::EnsureFailed -  1.199 s
+[2018.09.10-17.05.28:649][496]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.004 s
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: 
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:D:\RocketSync\4.20.0-4212847+++UE4+Release-4.20\Working\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1058]
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: Unable to bind delegate to 'receiveTCPMessageEventDelegate' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: Stack: 
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa02171e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9ff50c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9ff6b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c453c6a UE4Editor-SocketClient.dll!TBaseDynamicDelegate<FWeakObjectPtr,void,FString,TArray<unsigned char,FDefaultAllocator> const & __ptr64>::__Internal_BindDynamic<USocketClientBPLibrary>() [d:\rocketsync\4.20.0-4212847+++ue4+release-4.20\working\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:1058]
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c454fba UE4Editor-SocketClient.dll!USocketClientBPLibrary::USocketClientBPLibrary() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclientbplibrary.cpp:18]
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa0b12e1a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c453242 UE4Editor-SocketClient.dll!NewObject<USocketClientBPLibrary>() [d:\rocketsync\4.20.0-4212847+++ue4+release-4.20\working\engine\source\runtime\coreuobject\public\uobject\uobjectglobals.h:1162]
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c461304 UE4Editor-SocketClient.dll!USocketClientHandler::getSocketClientTarget() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclienthandler.cpp:17]
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c455f90 UE4Editor-SocketClient.dll!<lambda_2cf0b6947aac3c61518627cb097f1265>::operator()() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclientbplibrary.cpp:149]
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fdc6347 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fdd1f92 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fdd2456 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fde6d25 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fde6710 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa00b0e7e UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa00ef523 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c475208 UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c475b71 UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c475bba UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c483dac UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c485aaa UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffaf53d3034 KERNEL32.DLL!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: [Callstack] 0x00007ffaf5e71431 ntdll.dll!UnknownFunction []
+[2018.09.10-17.05.28:649][496]LogOutputDevice: Error: 
+[2018.09.10-17.05.28:653][496]LogStats:                SubmitErrorReport -  0.000 s
+[2018.09.10-17.05.28:950][496]LogStats:                    SendNewReport -  0.297 s
+[2018.09.10-17.05.28:950][496]LogStats:             FDebug::EnsureFailed -  0.305 s
+[2018.09.10-17.05.28:952][496]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.002 s
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: 
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:D:\RocketSync\4.20.0-4212847+++UE4+Release-4.20\Working\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1058]
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: Unable to bind delegate to 'receiveUDPMessageEventDelegate' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: Stack: 
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa02171e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9ff50c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9ff6b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c453e1a UE4Editor-SocketClient.dll!TBaseDynamicDelegate<FWeakObjectPtr,void,FString,TArray<unsigned char,FDefaultAllocator> const & __ptr64,FString,int>::__Internal_BindDynamic<USocketClientBPLibrary>() [d:\rocketsync\4.20.0-4212847+++ue4+release-4.20\working\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:1058]
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c45513a UE4Editor-SocketClient.dll!USocketClientBPLibrary::USocketClientBPLibrary() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclientbplibrary.cpp:19]
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa0b12e1a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c453242 UE4Editor-SocketClient.dll!NewObject<USocketClientBPLibrary>() [d:\rocketsync\4.20.0-4212847+++ue4+release-4.20\working\engine\source\runtime\coreuobject\public\uobject\uobjectglobals.h:1162]
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c461304 UE4Editor-SocketClient.dll!USocketClientHandler::getSocketClientTarget() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclienthandler.cpp:17]
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa8c455f90 UE4Editor-SocketClient.dll!<lambda_2cf0b6947aac3c61518627cb097f1265>::operator()() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclientbplibrary.cpp:149]
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fdc6347 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fdd1f92 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fdd2456 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fde6d25 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffa9fde6710 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa00b0e7e UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:952][496]LogOutputDevice: Error: [Callstack] 0x00007ffaa00ef523 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.28:953][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c475208 UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:953][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c475b71 UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:953][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c475bba UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:953][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c483dac UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:953][496]LogOutputDevice: Error: [Callstack] 0x00007ff79c485aaa UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.28:953][496]LogOutputDevice: Error: [Callstack] 0x00007ffaf53d3034 KERNEL32.DLL!UnknownFunction []
+[2018.09.10-17.05.28:953][496]LogOutputDevice: Error: [Callstack] 0x00007ffaf5e71431 ntdll.dll!UnknownFunction []
+[2018.09.10-17.05.28:953][496]LogOutputDevice: Error: 
+[2018.09.10-17.05.28:956][496]LogStats:                SubmitErrorReport -  0.000 s
+[2018.09.10-17.05.29:249][496]LogStats:                    SendNewReport -  0.293 s
+[2018.09.10-17.05.29:249][496]LogStats:             FDebug::EnsureFailed -  0.299 s
+[2018.09.10-17.05.29:776][496]LogWindows: Error: === Critical error: ===
+[2018.09.10-17.05.29:776][496]LogWindows: Error: 
+[2018.09.10-17.05.29:776][496]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION 0x0956cf80
+[2018.09.10-17.05.29:776][496]LogWindows: Error: 
+[2018.09.10-17.05.29:776][496]LogWindows: Error: [Callstack] 0x000001240956cf80 UnknownFunction []
+[2018.09.10-17.05.29:776][496]LogWindows: Error: [Callstack] 0x00007ffaa0ac128a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.10-17.05.29:776][496]LogWindows: Error: [Callstack] 0x00007ffaa0b12e27 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.10-17.05.29:776][496]LogWindows: Error: [Callstack] 0x00007ffa8c453242 UE4Editor-SocketClient.dll!NewObject<USocketClientBPLibrary>() [d:\rocketsync\4.20.0-4212847+++ue4+release-4.20\working\engine\source\runtime\coreuobject\public\uobject\uobjectglobals.h:1162]
+[2018.09.10-17.05.29:776][496]LogWindows: Error: [Callstack] 0x00007ffa8c461304 UE4Editor-SocketClient.dll!USocketClientHandler::getSocketClientTarget() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclienthandler.cpp:17]
+[2018.09.10-17.05.29:776][496]LogWindows: Error: [Callstack] 0x00007ffa8c455f90 UE4Editor-SocketClient.dll!<lambda_2cf0b6947aac3c61518627cb097f1265>::operator()() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\socketclient\source\socketclient\private\socketclientbplibrary.cpp:149]
+[2018.09.10-17.05.29:776][496]LogWindows: Error: [Callstack] 0x00007ffa9fdc6347 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.29:776][496]LogWindows: Error: [Callstack] 0x00007ffa9fdd1f92 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.29:776][496]LogWindows: Error: [Callstack] 0x00007ffa9fdd2456 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.29:776][496]LogWindows: Error: [Callstack] 0x00007ffa9fde6d25 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.29:777][496]LogWindows: Error: [Callstack] 0x00007ffa9fde6710 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.29:777][496]LogWindows: Error: [Callstack] 0x00007ffaa00b0e7e UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.29:777][496]LogWindows: Error: [Callstack] 0x00007ffaa00ef523 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.10-17.05.29:777][496]LogWindows: Error: [Callstack] 0x00007ff79c475208 UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.29:777][496]LogWindows: Error: [Callstack] 0x00007ff79c475b71 UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.29:777][496]LogWindows: Error: [Callstack] 0x00007ff79c475bba UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.29:777][496]LogWindows: Error: [Callstack] 0x00007ff79c483dac UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.29:777][496]LogWindows: Error: [Callstack] 0x00007ff79c485aaa UE4Editor.exe!UnknownFunction []
+[2018.09.10-17.05.29:777][496]LogWindows: Error: [Callstack] 0x00007ffaf53d3034 KERNEL32.DLL!UnknownFunction []
+[2018.09.10-17.05.29:777][496]LogWindows: Error: [Callstack] 0x00007ffaf5e71431 ntdll.dll!UnknownFunction []
+[2018.09.10-17.05.29:777][496]LogWindows: Error: 
+[2018.09.10-17.05.29:800][496]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.09.10-17.05.29:806][496]Log file closed, 09/10/18 19:05:29
