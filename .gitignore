@@ -1,14 +1,3 @@
-Binaries
-Build
-Staging
-ReimportCache
-AssetRegistryCache
-CachedAssetRegistry.bin
-/Saved/Logs
-/Saved/Crashes
-/Saved/Backup
-/Saved/Temp
-/Saved/StageBuilds
-/Saved/Cooked
-/Saved/AutoSaves
-/Saved/AutoScreenshot.png
+Intermediate
+Saved
+

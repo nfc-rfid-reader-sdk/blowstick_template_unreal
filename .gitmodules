@@ -1,3 +1,3 @@
-[submodule "Content/blowstick-bp-unreal"]
-	path = Content/blowstick-bp-unreal
-	url = https://git.d-logic.net/blowstick_sdk/blowstick-bp-unreal.git
+[submodule "Content/blowstick_system_unreal"]
+	path = Content/blowstick_system_unreal
+	url = https://git.d-logic.net/blowstick_sdk/blowstick_system_unreal.git
